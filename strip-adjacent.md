@@ -9,7 +9,297 @@ nav_title: "The Strip"
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
-**Area / topic:** The closest CCB-licensed dispensaries and consumption lounges to the Las Vegas Strip, paired with official late-night food just off the casino corridor.
+The closest CCB-licensed dispensaries and consumption lounges to the Las Vegas Strip, paired with official late-night food just off the casino corridor.
+
+Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
+
+## Licensed dispensaries and lounges near mid-Strip
+
+<article class="listing">
+  <h3>Mint Cannabis</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Monday–Sunday, open 24 hours</p>
+  <p class="listing-where">1.5 miles, about 4 minutes · 4503 Paradise Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 4503 Paradise Rd, Adult Use
+  - **License:** 04045523128584413069
+  - **Hours, as published:** Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556
+  - **Drive:** 1.5 miles, about 4 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>SOCIETY (consumption lounge)</h3>
+  <p class="listing-type"><span class="badge badge-lounge">Lounge</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Daily, 3 PM–11 PM</p>
+  <p class="listing-where">1.7 miles, about 4 minutes · 4640 Paradise Rd Ste 8-9</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 4640 Paradise Rd Ste 8-9, Adult Use
+  - **License:** 99035327095322531446
+  - **Hours, as published:** Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary
+  - **Drive:** 1.7 miles, about 4 minutes
+  - **Delivery (CCB):** N
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Cookies Las Vegas</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Open daily from 8 AM to 2 AM</p>
+  <p class="listing-where">1.9 miles, about 5 minutes · 4240 W Flamingo Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 4240 W Flamingo Rd, Suite 100, Adult Use
+  - **License:** 01359449685112111637
+  - **Hours, as published:** Open daily from 8 AM to 2 AM, per the Cookies Flamingo page. That page lists 4240 W Flamingo Rd, Las Vegas, NV 89103, phone 702-710-0810
+  - **Drive:** 1.9 miles, about 5 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Planet 13</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Open 24/7, every day of the year, including holidays</p>
+  <p class="listing-where">2.0 miles, about 6 minutes · 2548 W Desert Inn Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2548 W Desert Inn Rd, Adult Use
+  - **License:** 62474301567586344896
+  - **Hours, as published:** Open 24/7, every day of the year, including holidays, per Planet 13's visit page. Drive-thru pickup is listed as 9 AM to 11:45 PM. Address on that page: 2548 W Desert Inn Rd, Las Vegas, NV 89109
+  - **Drive:** 2.0 miles, about 6 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>DAZED! (consumption lounge)</h3>
+  <p class="listing-type"><span class="badge badge-lounge">Lounge</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Mon–Wed, noon–midnight; Thu, 11 AM–midnight; Fri–Sun, 10 AM–2 AM</p>
+  <p class="listing-where">2.0 miles, about 6 minutes · 2548 W Desert Inn Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2548 W Desert Inn Rd, Adult Use
+  - **License:** 99035327095322531435
+  - **Hours, as published:** Mon–Wed, noon–midnight; Thu, 11 AM–midnight; Fri–Sun, 10 AM–2 AM, per Planet 13's visit page, which describes DAZED! as a licensed consumption lounge inside the Planet 13 complex
+  - **Drive:** 2.0 miles, about 6 minutes
+  - **Delivery (CCB):** N
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>The Spot</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Official site visitthespot.com states the shop is open 24/7 with a 24-hour drive-thru, and its About page lists the location as 4310 W.</p>
+  <p class="listing-where">2.0 miles, about 5 minutes · 4310 W Flamingo Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 4310 W Flamingo Rd, Adult Use
+  - **License:** 28476312257204037070
+  - **Hours, as published:** Official site visitthespot.com states the shop is open 24/7 with a 24-hour drive-thru, and its About page lists the location as 4310 W. Flamingo, Las Vegas 89103
+  - **Drive:** 2.0 miles, about 5 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Cultivate</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Monday–Sunday, 8:00 AM–3:00 AM</p>
+  <p class="listing-where">2.5 miles, about 6 minutes · 3615 Spring Mountain Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 3615 Spring Mountain Rd, Adult Use
+  - **License:** 01653343486142530020
+  - **Hours, as published:** Monday–Sunday, 8:00 AM–3:00 AM, per Cultivate's Spring Mountain page. That page lists 3615 Spring Mountain Rd, Las Vegas, NV 89102, phone (702) 778-1173
+  - **Drive:** 2.5 miles, about 6 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Beyond/Hello</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Hours not listed — no official hours page was fetched today</p>
+  <p class="listing-where">2.5 miles, about 6 minutes · 430 E Twain Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 430 E Twain Ave, Adult Use
+  - **License:** 54588636135598286871
+  - **Hours, as published:** Hours not listed — no official hours page was fetched today
+  - **Drive:** 2.5 miles, about 6 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Thrive Cannabis Marketplace</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Open 24 hours a day, 7 days a week</p>
+  <p class="listing-where">2975 Sammy Davis Jr Dr · Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2975 Sammy Davis Jr Dr, Adult Use
+  - **License:** 40050104995800309174
+  - **Hours, as published:** Open 24 hours a day, 7 days a week, per Thrive's Get in Touch page, which labels this the "Las Vegas Strip" shop behind Resorts World and lists 2975 S Sammy Davis Jr Dr, Las Vegas, NV 89109, phone (725) 204-1825
+  - **Drive:** Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today
+  - **Delivery (CCB):** N
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>SMOKE AND MIRRORS (consumption lounge)</h3>
+  <p class="listing-type"><span class="badge badge-lounge">Lounge</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Hours not listed — no official lounge hours page was fetched today</p>
+  <p class="listing-where">2975 Sammy Davis Jr Dr · Distance not listed — same unmatched street name as the Thrive shop at this address</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2975 Sammy Davis Jr Dr, Adult Use
+  - **License:** 99035327095322531436
+  - **Hours, as published:** Hours not listed — no official lounge hours page was fetched today
+  - **Drive:** Distance not listed — same unmatched street name as the Thrive shop at this address
+  - **Delivery (CCB):** N
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Greenlight Dispensary</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day</p>
+  <p class="listing-where">4.2 miles, about 8 minutes · 2244 Paradise Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2244 Paradise Rd, Adult Use
+  - **License:** 54283805068313943868
+  - **Hours, as published:** Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400
+  - **Drive:** 4.2 miles, about 8 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+A note on Cookies delivery: Cookies' Flamingo page says the shop does not offer delivery at this time. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
+
+## Late-night food near mid-Strip
+
+<article class="listing">
+  <h3>PUB 365 at Tuscany Suites &amp; Casino</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM</p>
+  <p class="listing-deal">"late-night steak &amp; eggs special Starting at 10PM $8.99"</p>
+  <p class="listing-where">1.7 miles, about 4 minutes · 255 East Flamingo Rd.</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address:** 255 East Flamingo Rd., Las Vegas, Nevada 89169, as published on Tuscany's official PUB 365 page
+  - **Hours, as published on that page:** Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM
+  - **Late-night deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
+  - **Drive from 3600 S Las Vegas Blvd:** 1.7 miles, about 4 minutes
+  - **Phone published on the same page:** (702) 944-5084
+  - **Checked on 2026-11-12**
+  
+  The official page does not say whether tax or gratuity is included, and it does not state a closing time for the special other than the restaurant's own hours above. This listing uses only the $8.99 starting-at-10 PM line from that page.
+  
+  **Source:** [PUB 365 page on tuscanylv.com](https://www.tuscanylv.com/restaurant/pub-365-craft-beers/), fetched 2026-11-12.
+  
+  A separate pub365lv.com hours list fetched the same day disagrees (it posts Monday–Friday 12:00 PM–2:00 AM and Saturday–Sunday 10:00 AM–2:00 AM). Those conflicting hours were not used. See "Dropped."
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Peppermill Restaurant &amp; Fireside Lounge</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Monday–Wednesday, 7am–2am, last seating 1:15am; Thursday–Sunday, open 24 hours</p>
+  <p class="listing-where">2.0 miles, about 6 minutes · 2985 Las Vegas Blvd. S</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address:** 2985 Las Vegas Blvd. S, Las Vegas, NV 89109, as published on the Peppermill homepage
+  - **Hours, as published:** Monday–Wednesday, 7am–2am, last seating 1:15am; Thursday–Sunday, open 24 hours
+  - **Phone published on the same page:** 702.735.4177
+  - **Drive from 3600 S Las Vegas Blvd:** 2.0 miles, about 6 minutes
+  - **Checked on 2026-11-12**
+  
+  The homepage fetched today lists Reverse Happy Hour as drinks and half-off select appetizers. It does not publish current entrée prices, so no food price is listed here.
+  
+  **Source:** [Peppermill official homepage](https://www.peppermilllasvegas.com/), fetched 2026-11-12.
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Brass Fork at Palace Station</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">24 hours, 7 days a week</p>
+  <p class="listing-deal">Station Casinos' Late Night Savings, with a Boarding Pass, dine-in only. See the under-$10 deals page for the official item list and terms</p>
+  <p class="listing-where">3.8 miles, about 8 minutes · 2411 W Sahara Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Palace Station is west of I-15, not on the Strip, but it is the closest official Late Night Savings cafe measured from mid-Strip today.
+  
+  - **Address:** 2411 W Sahara Ave, Las Vegas, NV 89102, as published in the footer of The Brass Fork's official page
+  - **Hours, as published:** 24 hours, 7 days a week
+  - **Late-night deal:** Station Casinos' Late Night Savings, with a Boarding Pass, dine-in only. See the [under-$10 deals page](late-night-deals-under-10.md) for the official item list and terms
+  - **Drive from 3600 S Las Vegas Blvd:** 3.8 miles, about 8 minutes
+  - **Checked on 2026-11-12**
+  
+  **Sources:** [The Brass Fork official page](https://palacestation.com/eat-and-drink/the-brass-fork/) and [Station Casinos Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), both fetched 2026-11-12.
+  
+  </details>
+</article>
+
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
+
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
 
 This page is part of a Las Vegas munchies map. It is for adults 21 and older. It is not legal advice. You cannot use cannabis in a public place, in a vehicle, or in a retail store. Casino restaurants and hotel properties are places to eat or stay, not consumption lounges.
 
@@ -21,71 +311,11 @@ Start with a CCB-licensed store if you need to buy cannabis, or a licensed loung
 
 A retail consumption lounge attached to a store that was already in compliance is not subject to that same 1,500-foot gaming setback, but it still may not be on airport property (NRS 678B.322). Even with that lounge exception, the CCB list fetched today still has no lounge with a Las Vegas Boulevard address.
 
-## Licensed dispensaries and lounges near mid-Strip
-
 Every store and lounge below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) fetched 2026-11-12 (the Board marks that list "Current as of 10/02/2026"). Addresses, license numbers, adult-use status, and the delivery flag come from that list. Hours are included only when the business's own official page was fetched today. Distances are driving routes from 3600 S Las Vegas Blvd, Las Vegas, NV 89109, using the U.S. Census Bureau Geocoder (Public_AR_Current) and OSRM driving, run 2026-11-12.
-
-| Name | Address (CCB) | License | Hours (official page, 2026-11-12) | Drive from 3600 S Las Vegas Blvd | Delivery (CCB) | Checked |
-|------|---------------|---------|-----------------------------------|----------------------------------|----------------|---------|
-| Mint Cannabis | 4503 Paradise Rd, Adult Use | 04045523128584413069 | Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556 | 1.5 miles, about 4 minutes | Y | Checked on 2026-11-12 |
-| SOCIETY (consumption lounge) | 4640 Paradise Rd Ste 8-9, Adult Use | 99035327095322531446 | Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary | 1.7 miles, about 4 minutes | N | Checked on 2026-11-12 |
-| Cookies Las Vegas | 4240 W Flamingo Rd, Suite 100, Adult Use | 01359449685112111637 | Open daily from 8 AM to 2 AM, per the Cookies Flamingo page. That page lists 4240 W Flamingo Rd, Las Vegas, NV 89103, phone 702-710-0810 | 1.9 miles, about 5 minutes | Y | Checked on 2026-11-12 |
-| Planet 13 | 2548 W Desert Inn Rd, Adult Use | 62474301567586344896 | Open 24/7, every day of the year, including holidays, per Planet 13's visit page. Drive-thru pickup is listed as 9 AM to 11:45 PM. Address on that page: 2548 W Desert Inn Rd, Las Vegas, NV 89109 | 2.0 miles, about 6 minutes | Y | Checked on 2026-11-12 |
-| DAZED! (consumption lounge) | 2548 W Desert Inn Rd, Adult Use | 99035327095322531435 | Mon–Wed, noon–midnight; Thu, 11 AM–midnight; Fri–Sun, 10 AM–2 AM, per Planet 13's visit page, which describes DAZED! as a licensed consumption lounge inside the Planet 13 complex | 2.0 miles, about 6 minutes | N | Checked on 2026-11-12 |
-| The Spot | 4310 W Flamingo Rd, Adult Use | 28476312257204037070 | Official site visitthespot.com states the shop is open 24/7 with a 24-hour drive-thru, and its About page lists the location as 4310 W. Flamingo, Las Vegas 89103 | 2.0 miles, about 5 minutes | Y | Checked on 2026-11-12 |
-| Cultivate | 3615 Spring Mountain Rd, Adult Use | 01653343486142530020 | Monday–Sunday, 8:00 AM–3:00 AM, per Cultivate's Spring Mountain page. That page lists 3615 Spring Mountain Rd, Las Vegas, NV 89102, phone (702) 778-1173 | 2.5 miles, about 6 minutes | Y | Checked on 2026-11-12 |
-| Beyond/Hello | 430 E Twain Ave, Adult Use | 54588636135598286871 | Hours not listed — no official hours page was fetched today | 2.5 miles, about 6 minutes | Y | Checked on 2026-11-12 |
-| Thrive Cannabis Marketplace | 2975 Sammy Davis Jr Dr, Adult Use | 40050104995800309174 | Open 24 hours a day, 7 days a week, per Thrive's Get in Touch page, which labels this the "Las Vegas Strip" shop behind Resorts World and lists 2975 S Sammy Davis Jr Dr, Las Vegas, NV 89109, phone (725) 204-1825 | Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today | N | Checked on 2026-11-12 |
-| SMOKE AND MIRRORS (consumption lounge) | 2975 Sammy Davis Jr Dr, Adult Use | 99035327095322531436 | Hours not listed — no official lounge hours page was fetched today | Distance not listed — same unmatched street name as the Thrive shop at this address | N | Checked on 2026-11-12 |
-| Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 4.2 miles, about 8 minutes | Y | Checked on 2026-11-12 |
-{: .data-table .shop-table}
 
 Planet 13's visit page also advertises a free shuttle to and from 15 Strip hotels (13 riders a trip; hours vary; book at (702) 500-0154) and says delivery is to residential addresses only, never hotels or casinos, daily 9 AM to 11:45 PM. The table follows the CCB delivery flag of Y for the store. The same page lists By The Slice and Bar 13, the complex's pizza restaurant, as daily 11 AM–11 PM. No food prices from that restaurant were published on the page fetched today, so none are listed here.
 
-A note on Cookies delivery: Cookies' Flamingo page says the shop does not offer delivery at this time. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
-
 SOCIETY's official page says it is connected to The Grove Las Vegas, that lounge products must be purchased for on-site use and cannot leave, and that a separate retail purchase is needed to take product with you. The Grove store at 4647 University Center Dr is on the CCB list (license 19619496668049413129, delivery Y) but is not given a drive time below. See "Dropped."
-
-## Late-night food near mid-Strip
-
-### PUB 365 at Tuscany Suites & Casino
-
-- **Address:** 255 East Flamingo Rd., Las Vegas, Nevada 89169, as published on Tuscany's official PUB 365 page
-- **Hours, as published on that page:** Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM
-- **Late-night deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
-- **Drive from 3600 S Las Vegas Blvd:** 1.7 miles, about 4 minutes
-- **Phone published on the same page:** (702) 944-5084
-- **Checked on 2026-11-12**
-
-The official page does not say whether tax or gratuity is included, and it does not state a closing time for the special other than the restaurant's own hours above. This listing uses only the $8.99 starting-at-10 PM line from that page.
-
-**Source:** [PUB 365 page on tuscanylv.com](https://www.tuscanylv.com/restaurant/pub-365-craft-beers/), fetched 2026-11-12.
-
-A separate pub365lv.com hours list fetched the same day disagrees (it posts Monday–Friday 12:00 PM–2:00 AM and Saturday–Sunday 10:00 AM–2:00 AM). Those conflicting hours were not used. See "Dropped."
-
-### Peppermill Restaurant & Fireside Lounge
-
-- **Address:** 2985 Las Vegas Blvd. S, Las Vegas, NV 89109, as published on the Peppermill homepage
-- **Hours, as published:** Monday–Wednesday, 7am–2am, last seating 1:15am; Thursday–Sunday, open 24 hours
-- **Phone published on the same page:** 702.735.4177
-- **Drive from 3600 S Las Vegas Blvd:** 2.0 miles, about 6 minutes
-- **Checked on 2026-11-12**
-
-The homepage fetched today lists Reverse Happy Hour as drinks and half-off select appetizers. It does not publish current entrée prices, so no food price is listed here.
-
-**Source:** [Peppermill official homepage](https://www.peppermilllasvegas.com/), fetched 2026-11-12.
-
-### Brass Fork at Palace Station
-
-Palace Station is west of I-15, not on the Strip, but it is the closest official Late Night Savings cafe measured from mid-Strip today.
-
-- **Address:** 2411 W Sahara Ave, Las Vegas, NV 89102, as published in the footer of The Brass Fork's official page
-- **Hours, as published:** 24 hours, 7 days a week
-- **Late-night deal:** Station Casinos' Late Night Savings, with a Boarding Pass, dine-in only. See the [under-$10 deals page](late-night-deals-under-10.md) for the official item list and terms
-- **Drive from 3600 S Las Vegas Blvd:** 3.8 miles, about 8 minutes
-- **Checked on 2026-11-12**
-
-**Sources:** [The Brass Fork official page](https://palacestation.com/eat-and-drink/the-brass-fork/) and [Station Casinos Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), both fetched 2026-11-12.
 
 ## Legal basics (short)
 
@@ -137,3 +367,5 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Disclosure
 
 This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+
+</details>

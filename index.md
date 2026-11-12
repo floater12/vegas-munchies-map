@@ -4,9 +4,17 @@ title: Las Vegas munchies map
 description: "Same-day-sourced directory of licensed Las Vegas dispensaries and nearby late-night food. For adults 21 and older. Last verified 2026-11-12."
 ---
 
+
+**Last verified:** 2026-11-12 (America/Los_Angeles, PST)
+
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
 This is a same-day-sourced directory of two things that are often asked about together in Las Vegas: real licensed dispensaries (and the few licensed consumption lounges), and nearby late-night food, including casino graveyard specials.
+
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
+
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
 
 It is for adults 21 and older. It is not legal advice, and it is not a guide to consuming cannabis in public, in a car, in a casino, or in a hotel.
 
@@ -53,6 +61,4 @@ On 2026-11-12 the CCB list named three licensed consumption lounges, all Adult U
 - [NRS Chapter 678B](https://www.leg.state.nv.us/NRS/NRS-678B.html) — NRS 678B.250 and NRS 678B.322
 - [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) — fetched 2026-11-12; page marked "Current as of 10/02/2026"; lounge names and addresses; note that tribal establishments are not listed
 
-## Disclosure
-
-This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+</details>

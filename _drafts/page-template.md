@@ -1,42 +1,67 @@
 ---
-layout: default
+layout: area
 title: "[Page title]"
 description: "[one line area or topic]"
+nav_title: "[Short name]"
 ---
 
 # [Page title]
 
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published.
-
 **Last verified:** YYYY-MM-DD (America/Los_Angeles)
 
-**Area / topic:** [one line]
+[One or two sentences: what this page lists.]
 
-This page is part of a Las Vegas munchies map: licensed dispensaries and consumption lounges paired with nearby late-night food. It is 21+ and is not legal advice.
+Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 
-## How to use this page
+## [Group, for example late-night food]
 
-[Short instructions. Remind readers not to consume cannabis in public, in a vehicle, in a retail store, or on property where the owner has prohibited it.]
+<article class="listing">
+  <h3>[Name]</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">[Hours as published, short]</p>
+  <p class="listing-deal">[Deal and price, only if the official page states one]</p>
+  <p class="listing-where">[One short distance or address line]</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
 
-## Licensed dispensaries and lounges
+  - **License:** [CCB number, shops and lounges only]
+  - **Hours, as published:** [full hours, including holiday exceptions]
+  - **Checked on YYYY-MM-DD**
+  - **Source:** [official page](https://example.com)
 
-List only shops and lounges on the CCB licensee list fetched this day. For each row include: name, CCB address, license number, adult-use or medical, CCB delivery flag if listed, hours only if an official shop page was fetched this day, and distance only if Census + OSRM were run this day.
+  </details>
+</article>
 
-| Name | Address (CCB) | License | Hours (official shop page) | Drive from [anchor] | Sources |
-|------|---------------|---------|----------------------------|---------------------|---------|
-|  |  |  |  |  |  |
+<article class="listing">
+  <h3>[Shop name]</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">[Hours as published, or say hours were not on the official page]</p>
+  <p class="listing-where">[Drive time · street]</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
 
-## Late-night food
+  - **Address:** [CCB address]
+  - **License:** [number]
+  - **Delivery (CCB):** [Y or N]
+  - **Checked on YYYY-MM-DD**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  - **Source:** [official shop page](https://example.com)
 
-List only prices and hours from official restaurant or casino pages fetched this day.
+  </details>
+</article>
 
-| Place | Address | Late-night deal / hours | Sources |
-|-------|---------|-------------------------|---------|
-|  |  |  |  |
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
 
-## Legal basics (short)
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
 
-Quote official CCB / NRS wording. Full wording lives on the hub page.
+## How this page was checked
+
+[Drive-time method, what was not verified, and any notes that are not on a card.]
+
+## Laws
+
+Quote the official CCB / NRS wording used on the hub page. Link the [hub page](index.md).
 
 ## Dropped (could not verify this day)
 
@@ -46,6 +71,4 @@ Quote official CCB / NRS wording. Full wording lives on the hub page.
 
 - [link — what was taken from it]
 
-## Disclosure
-
-This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+</details>

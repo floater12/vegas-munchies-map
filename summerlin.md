@@ -9,7 +9,134 @@ nav_title: "Summerlin"
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
-**Area / topic:** CCB-licensed dispensaries on the west side of the valley that describe themselves as serving Summerlin, paired with two official 24-hour spots near Summerlin: Earl Grey Cafe at The Resort at Summerlin and Distill on W Charleston.
+CCB-licensed dispensaries on the west side of the valley that describe themselves as serving Summerlin, paired with two official 24-hour spots near Summerlin: Earl Grey Cafe at The Resort at Summerlin and Distill on W Charleston.
+
+Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
+
+## Licensed dispensaries serving Summerlin
+
+<article class="listing">
+  <h3>Nevada Made Marijuana (Charleston)</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Open 24 hours</p>
+  <p class="listing-where">3.0 miles, about 5 minutes · 4.2 miles, about 8 minutes · 7650 W Charleston Blvd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 7650 W Charleston Blvd, Adult Use
+  - **License:** 07716430045859597948
+  - **Hours, as published:** Open 24 hours per day, 7 days per week, per [Nevada Made's Charleston page](https://nevadamademarijuana.com/charleston/), which says it serves "West Las Vegas and the Summerlin area." Address on that page: 7650 W Charleston Blvd, Las Vegas, NV 89117; phone 702-298-4840. Cash only, per the page
+  - **Drive:** 3.0 miles, about 5 minutes · 4.2 miles, about 8 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>GREEN. (Rainbow)</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">8:00 am–midnight daily</p>
+  <p class="listing-where">3.3 miles, about 5 minutes · 6.1 miles, about 11 minutes · 101 S Rainbow Blvd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 101 S Rainbow Blvd, Suite 1-5, Adult Use
+  - **License:** 67664169559680064201
+  - **Hours, as published:** 8:00 am–midnight daily, per [Green's Rainbow page](https://greennv.com/locations/rainbow), which lists 101 S Rainbow Blvd, Suite 1, Las Vegas, NV 89145, phone (702) 827-4720 and says delivery covers Summerlin
+  - **Drive:** 3.3 miles, about 5 minutes · 6.1 miles, about 11 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Beyond/Hello (Sahara)</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Mon–Wed and Sun, 8:00 AM–10:00 PM; Thu–Sat, 8:00 AM–11:00 PM</p>
+  <p class="listing-where">3.8 miles, about 7 minutes · 5.1 miles, about 9 minutes · 7885 W Sahara Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 7885 W Sahara Ave, Suite 111-112, Adult Use
+  - **License:** 56859471821919325427
+  - **Hours, as published:** Mon–Wed and Sun, 8:00 AM–10:00 PM; Thu–Sat, 8:00 AM–11:00 PM, per [Beyond/Hello's Sahara page](https://beyond-hello.com/nevada-dispensaries/las-vegas-sahara/), which lists 7885 W Sahara Ave, #112, Las Vegas, NV 89117, phone (702) 778-7987, and names Summerlin among its areas served
+  - **Drive:** 3.8 miles, about 7 minutes · 5.1 miles, about 9 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>GREEN. (Hualapai)</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">8:00 am–midnight daily</p>
+  <p class="listing-where">6.1 miles, about 11 minutes · 5.2 miles, about 9 minutes · 4510 S Hualapai Way</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 4510 S Hualapai Way, Adult Use
+  - **License:** 48573289589249273073
+  - **Hours, as published:** 8:00 am–midnight daily, per [Green's Hualapai page](https://greennv.com/locations/hualapai), which lists 4510 S Hualapai Way, Las Vegas, NV 89147, phone (702) 827-4720 and "Summerlin South" in its service area
+  - **Drive:** 6.1 miles, about 11 minutes · 5.2 miles, about 9 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+A note on Nevada Made delivery: Nevada Made's Charleston page says this store does not currently offer delivery. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
+
+## Late-night food near Summerlin
+
+<article class="listing">
+  <h3>Earl Grey Cafe at The Resort at Summerlin</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">24 hours, 7 days a week; dine-in and take-out available</p>
+  <p class="listing-where">221 North Rampart Blvd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address:** 221 North Rampart Blvd, as published on the resort's official page (the page does not print a city or ZIP; the Census Geocoder matched it as 221 N Rampart Blvd, Las Vegas, NV 89145)
+  - **Hours, as published:** 24 hours, 7 days a week; dine-in and take-out available
+  - **Phone published on the same page:** 1-702-507-5966
+  - **Prices:** none listed. The page links a "Late Night Menu" and "Late Night Menu Specials," but no prices were readable in the page text fetched today, so none are listed here
+  - **Checked on 2026-11-12**
+  
+  **Source:** [Earl Grey Cafe official page](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/), fetched 2026-11-12.
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Distill (Summerlin)</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">"All Locations Are Open 24/7!" The home page says the neighborhood spot has "hand-crafted food" and is "ready to serve you 24/7"</p>
+  <p class="listing-where">10820 W. Charleston Boulevard, Las Vegas, NV 89135</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address:** 10820 W. Charleston Boulevard, Las Vegas, NV 89135, as published on Distill's locations page
+  - **Hours, as published:** "All Locations Are Open 24/7!" The home page says the neighborhood spot has "hand-crafted food" and is "ready to serve you 24/7"
+  - **Phone published on the same page:** 702-534-1400
+  - **Prices:** none fetched, so none listed. Distill's home page calls it a "neighborhood hangout" with a VIP gaming club. It is not a cannabis lounge, and the official pages fetched today do not state its age policy
+  - **Checked on 2026-11-12**
+  
+  **Sources:** [Distill locations](https://www.distillbar.com/locations) and [Distill home page](https://www.distillbar.com/), both fetched 2026-11-12.
+  
+  </details>
+</article>
+
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
+
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
 
 This page is part of a Las Vegas munchies map. It is for adults 21 and older. It is not legal advice. You cannot use cannabis in a public place, in a vehicle, or in a retail store. A casino cafe or a bar is a place to eat or drink, not a cannabis consumption lounge.
 
@@ -21,41 +148,7 @@ No CCB-licensed consumption lounge appears in this area on the list fetched 2026
 
 Red Rock Casino Resort Spa's Lucky Penny, also a 24-hour cafe, is on the [West Valley page](west-valley.md). From Red Rock (11011 W Charleston Blvd), Nevada Made Marijuana's Charleston store below is 4.3 miles, about 8 minutes, by the same Census + OSRM method.
 
-## Licensed dispensaries serving Summerlin
-
 Every store below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) fetched 2026-11-12 (the Board marks that list "Current as of 10/02/2026"). Addresses, license numbers, adult-use status, and the delivery flag come from that list. Hours are included only when the store's own official page was fetched today. Distances are driving routes using the U.S. Census Bureau Geocoder (Public_AR_Current) and OSRM driving, run 2026-11-12.
-
-| Name | Address (CCB) | License | Hours (official shop page, 2026-11-12) | Drive from Earl Grey Cafe | Drive from Distill | Delivery (CCB) | Checked |
-|------|---------------|---------|----------------------------------------|---------------------------|--------------------|----------------|---------|
-| Nevada Made Marijuana (Charleston) | 7650 W Charleston Blvd, Adult Use | 07716430045859597948 | Open 24 hours per day, 7 days per week, per [Nevada Made's Charleston page](https://nevadamademarijuana.com/charleston/), which says it serves "West Las Vegas and the Summerlin area." Address on that page: 7650 W Charleston Blvd, Las Vegas, NV 89117; phone 702-298-4840. Cash only, per the page | 3.0 miles, about 5 minutes | 4.2 miles, about 8 minutes | Y | Checked on 2026-11-12 |
-| GREEN. (Rainbow) | 101 S Rainbow Blvd, Suite 1-5, Adult Use | 67664169559680064201 | 8:00 am–midnight daily, per [Green's Rainbow page](https://greennv.com/locations/rainbow), which lists 101 S Rainbow Blvd, Suite 1, Las Vegas, NV 89145, phone (702) 827-4720 and says delivery covers Summerlin | 3.3 miles, about 5 minutes | 6.1 miles, about 11 minutes | Y | Checked on 2026-11-12 |
-| Beyond/Hello (Sahara) | 7885 W Sahara Ave, Suite 111-112, Adult Use | 56859471821919325427 | Mon–Wed and Sun, 8:00 AM–10:00 PM; Thu–Sat, 8:00 AM–11:00 PM, per [Beyond/Hello's Sahara page](https://beyond-hello.com/nevada-dispensaries/las-vegas-sahara/), which lists 7885 W Sahara Ave, #112, Las Vegas, NV 89117, phone (702) 778-7987, and names Summerlin among its areas served | 3.8 miles, about 7 minutes | 5.1 miles, about 9 minutes | Y | Checked on 2026-11-12 |
-| GREEN. (Hualapai) | 4510 S Hualapai Way, Adult Use | 48573289589249273073 | 8:00 am–midnight daily, per [Green's Hualapai page](https://greennv.com/locations/hualapai), which lists 4510 S Hualapai Way, Las Vegas, NV 89147, phone (702) 827-4720 and "Summerlin South" in its service area | 6.1 miles, about 11 minutes | 5.2 miles, about 9 minutes | Y | Checked on 2026-11-12 |
-{: .data-table .summerlin-table}
-
-A note on Nevada Made delivery: Nevada Made's Charleston page says this store does not currently offer delivery. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
-
-## Late-night food near Summerlin
-
-### Earl Grey Cafe at The Resort at Summerlin
-
-- **Address:** 221 North Rampart Blvd, as published on the resort's official page (the page does not print a city or ZIP; the Census Geocoder matched it as 221 N Rampart Blvd, Las Vegas, NV 89145)
-- **Hours, as published:** 24 hours, 7 days a week; dine-in and take-out available
-- **Phone published on the same page:** 1-702-507-5966
-- **Prices:** none listed. The page links a "Late Night Menu" and "Late Night Menu Specials," but no prices were readable in the page text fetched today, so none are listed here
-- **Checked on 2026-11-12**
-
-**Source:** [Earl Grey Cafe official page](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/), fetched 2026-11-12.
-
-### Distill (Summerlin)
-
-- **Address:** 10820 W. Charleston Boulevard, Las Vegas, NV 89135, as published on Distill's locations page
-- **Hours, as published:** "All Locations Are Open 24/7!" The home page says the neighborhood spot has "hand-crafted food" and is "ready to serve you 24/7"
-- **Phone published on the same page:** 702-534-1400
-- **Prices:** none fetched, so none listed. Distill's home page calls it a "neighborhood hangout" with a VIP gaming club. It is not a cannabis lounge, and the official pages fetched today do not state its age policy
-- **Checked on 2026-11-12**
-
-**Sources:** [Distill locations](https://www.distillbar.com/locations) and [Distill home page](https://www.distillbar.com/), both fetched 2026-11-12.
 
 ## Legal basics (short)
 
@@ -97,3 +190,5 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Disclosure
 
 This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+
+</details>

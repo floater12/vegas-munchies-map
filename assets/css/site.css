@@ -498,3 +498,108 @@ h1 {
 .leaflet-popup-content a { color: var(--pink-soft); }
 .leaflet-popup-content p { margin: 0 0 6px; }
 .popup-type { color: var(--gold); font-size: 0.78rem; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 700; }
+
+.rule {
+  margin: 0.4rem 0 1rem;
+  color: var(--muted);
+}
+
+.listing {
+  margin: 0 0 12px;
+  padding: 14px 14px 8px;
+  background: var(--card);
+  border: 1px solid rgba(255, 79, 163, 0.4);
+  border-radius: 16px;
+}
+
+.prose .listing h3,
+.prose .listing h3 + p,
+.prose .listing p {
+  margin: 0.2rem 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  border-radius: 0;
+  font-size: 1rem;
+}
+
+.prose .listing h3 {
+  margin: 0 0 4px;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  color: var(--ink);
+}
+
+.listing-type { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 0 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.badge-food { color: #1a1404; background: var(--gold); }
+.badge-dispensary { color: #1a0610; background: var(--pink); }
+.badge-lounge { color: #04140c; background: var(--green); }
+
+.licensed {
+  color: var(--green);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.listing-hours,
+.listing-deal,
+.listing-where { color: var(--muted); }
+
+.listing-deal { color: var(--ink); }
+
+details.sources,
+details.fine {
+  margin: 8px 0 4px;
+}
+
+details.sources summary,
+details.fine summary {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--pink-soft);
+  font-size: 0.92rem;
+  list-style: none;
+}
+
+details.fine summary {
+  color: var(--gold);
+  font-size: 1rem;
+}
+
+details.sources summary::-webkit-details-marker,
+details.fine summary::-webkit-details-marker { display: none; }
+
+details.sources summary::before,
+details.fine summary::before {
+  content: "▸";
+  margin-right: 8px;
+  color: var(--gold);
+}
+
+details[open] > summary::before { content: "▾"; }
+
+details.sources summary:focus-visible,
+details.fine summary:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.disclosure {
+  margin-top: 1.4rem;
+  color: var(--muted);
+}

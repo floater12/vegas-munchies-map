@@ -9,9 +9,183 @@ nav_title: "South Point"
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST). First verified 2026-11-11.
 
-**Re-checked 2026-11-12:** the CCB list (still marked "Current as of 10/02/2026"), the Coronado Cafe page, and the hours pages for Thrive, The Source, Deep Roots, and Wallflower. No facts changed. Drive distances below were measured 2026-11-11 and were not re-run.
+Licensed dispensaries near South Point Hotel, Casino & Spa, paired with the official late-night graveyard specials at Coronado Cafe.
 
-**Area / topic:** Licensed dispensaries near South Point Hotel, Casino & Spa, paired with the official late-night graveyard specials at Coronado Cafe.
+Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
+
+## Late-night food
+
+<article class="listing">
+  <h3>Coronado Cafe at South Point</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Daily, 24 hours</p>
+  <p class="listing-deal">"For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."</p>
+  <p class="listing-where">9777 Las Vegas Blvd South, Las Vegas, NV 89183</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address:** 9777 Las Vegas Blvd South, Las Vegas, NV 89183, as published on the cafe's official page
+  - **Hours:** Daily, 24 hours, with holiday exceptions: Thanksgiving Nov 26, 11am–10pm; Christmas Dec 24 and 25, 11am–10pm
+  - **Dress code:** Casual
+  - **Late-night deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
+  - **Also on that page, not treated as graveyard specials:** the Chinese kitchen is listed as 11am until midnight; house specials listed are Roast Prime Rib of Beef for $23.95 and a 16oz. Porterhouse Steak for $25.95
+  - **Phone published on the same page:** Hotel (702) 796-7111 (the page does not label a separate cafe-only number)
+  - **Checked on 2026-11-12**
+  
+  Line-item graveyard prices, a midnight–6am window, and a "21 and older" rule for the specials were not taken from this page and are not listed here. See "Dropped" below.
+  
+  **Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-11.
+  
+  No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances), but its late-night menu and hours were not confirmed from an official page successfully fetched today, so there is no Silverton food listing on this page.
+  
+  </details>
+</article>
+
+## Licensed dispensaries near South Point
+
+<article class="listing">
+  <h3>Thrive Cannabis Marketplace</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Open 24 hours, 7 days a week</p>
+  <p class="listing-where">1.8 miles, about 3 minutes · 3698 W Cactus Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 3698 W Cactus Ave, Suite 107-109, Adult Use
+  - **License:** 14194022211467850983
+  - **Hours, as published:** Open 24 hours, 7 days a week, per Thrive's Southern Highlands and Get in Touch pages. Those pages list 3698 W. Cactus Ave., Las Vegas, NV 89141, phone (702) 330-0039
+  - **Drive:** 1.8 miles, about 3 minutes
+  - **Delivery (CCB):** N
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>The Source</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Mon–Sun, 8AM–11PM</p>
+  <p class="listing-where">3.4 miles, about 6 minutes · 9480 S Eastern Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 9480 S Eastern Ave, Suite 185 & 190, Adult Use
+  - **License:** 59287610826909824091
+  - **Hours, as published:** Mon–Sun, 8AM–11PM, per The Source locations page (Henderson – Eastern, 9480 S Eastern Ave, Suite 185, Las Vegas, NV 89123, phone (702) 708-2222)
+  - **Drive:** 3.4 miles, about 6 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Nevada Made Marijuana</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Hours not listed — no official hours page was fetched today</p>
+  <p class="listing-where">3.5 miles, about 6 minutes · 95 E Warm Springs Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 95 E Warm Springs Rd, Adult Use
+  - **License:** 27764211258972498624
+  - **Hours, as published:** Hours not listed — no official hours page was fetched today
+  - **Drive:** 3.5 miles, about 6 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Deep Roots Harvest Inc</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Store hours Mon–Sun, 7AM–12AM</p>
+  <p class="listing-where">3.9 miles, about 7 minutes · 3725 Blue Diamond Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 3725 Blue Diamond Rd, Adult Use
+  - **License:** 33067718465021979566
+  - **Hours, as published:** Store hours Mon–Sun, 7AM–12AM, per the Blue Diamond location page. That page also lists delivery and curbside hours Mon–Sun, 8AM–10PM, address 3725 Blue Diamond Rd, Las Vegas, NV 89139
+  - **Drive:** 3.9 miles, about 7 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>GREEN.</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Hours not listed — no official hours page was fetched today. Census matched this street number in Henderson, NV 89052, which was used for</p>
+  <p class="listing-where">4.4 miles, about 7 minutes · 10420 S Eastern Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 10420 S Eastern Ave, Suite 100, Adult Use
+  - **License:** 55363208938053798722
+  - **Hours, as published:** Hours not listed — no official hours page was fetched today. Census matched this street number in Henderson, NV 89052, which was used for the route
+  - **Drive:** 4.4 miles, about 7 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>The Dispensary</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Hours not listed — no official hours page was fetched today</p>
+  <p class="listing-where">4.5 miles, about 8 minutes · 8605 S Eastern Ave</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 8605 S Eastern Ave, Adult Use
+  - **License:** 64345737726226352455
+  - **Hours, as published:** Hours not listed — no official hours page was fetched today
+  - **Drive:** 4.5 miles, about 8 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Wallflower Cannabis House</h3>
+  <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
+  <p class="listing-hours">Sales floor daily 7:00 AM–2:00 AM; curbside and drive-thru 24 hours, 7 days a week</p>
+  <p class="listing-where">4.6 miles, about 8 minutes · 6540 Blue Diamond Rd</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 6540 Blue Diamond Rd, Adult Use
+  - **License:** 23003643426806888206
+  - **Hours, as published:** Sales floor daily 7:00 AM–2:00 AM; curbside and drive-thru 24 hours, 7 days a week, per Wallflower's Blue Diamond page. That page lists 6540 Blue Diamond Rd, Las Vegas, NV 89139, phone (725) 205-2714
+  - **Drive:** 4.6 miles, about 8 minutes
+  - **Delivery (CCB):** Y
+  - **Checked on 2026-11-12**
+  - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
+  
+  </details>
+</article>
+
+Thrive's official Southern Highlands page also says the shop is "just two miles from South Point Hotel Casino & Spa." This page uses the measured 1.8-mile OSRM figure above, not that rounded marketing line.
+
+A note on Thrive delivery: Thrive's own pages mention same-day delivery, but the CCB list marks this address as delivery "N." This table follows the CCB flag.
+
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
+
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
+
+**Re-checked 2026-11-12:** the CCB list (still marked "Current as of 10/02/2026"), the Coronado Cafe page, and the hours pages for Thrive, The Source, Deep Roots, and Wallflower. No facts changed. Drive distances below were measured 2026-11-11 and were not re-run.
 
 This page is part of a Las Vegas munchies map. It is for adults 21 and older. It is not legal advice. You cannot use cannabis in a public place, in a vehicle, or in a retail store. Coronado Cafe is inside a casino; it is a place to eat, not a consumption lounge.
 
@@ -21,42 +195,7 @@ Start with a CCB-licensed store if you need to buy cannabis, then go to the cafe
 
 No CCB-licensed consumption lounge appears in this far-south cluster on the list fetched 2026-11-11 (marked current as of 2026-10-02). The three lounges on that list are farther north, around Desert Inn, Paradise, and Sammy Davis Jr Drive, and are left for a later Strip-adjacent page.
 
-## Late-night food
-
-### Coronado Cafe at South Point
-
-- **Address:** 9777 Las Vegas Blvd South, Las Vegas, NV 89183, as published on the cafe's official page
-- **Hours:** Daily, 24 hours, with holiday exceptions: Thanksgiving Nov 26, 11am–10pm; Christmas Dec 24 and 25, 11am–10pm
-- **Dress code:** Casual
-- **Late-night deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
-- **Also on that page, not treated as graveyard specials:** the Chinese kitchen is listed as 11am until midnight; house specials listed are Roast Prime Rib of Beef for $23.95 and a 16oz. Porterhouse Steak for $25.95
-- **Phone published on the same page:** Hotel (702) 796-7111 (the page does not label a separate cafe-only number)
-- **Checked on 2026-11-12**
-
-Line-item graveyard prices, a midnight–6am window, and a "21 and older" rule for the specials were not taken from this page and are not listed here. See "Dropped" below.
-
-**Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-11.
-
-No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances), but its late-night menu and hours were not confirmed from an official page successfully fetched today, so there is no Silverton food listing on this page.
-
-## Licensed dispensaries near South Point
-
 Every store below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) fetched 2026-11-11 (the Board marks that list "Current as of 10/02/2026"). Addresses, license numbers, adult-use status, and the delivery flag come from that list. Hours are included only when the store's own official page was fetched today. Distances are driving routes from 9777 Las Vegas Blvd S, Las Vegas, NV 89183, using the U.S. Census Bureau Geocoder (Public_AR_Current) and OSRM driving, run 2026-11-11.
-
-| Name | Address (CCB) | License | Hours (official shop page, 2026-11-11; re-checked 2026-11-12) | Drive from South Point | Delivery (CCB) | Checked |
-|------|---------------|---------|----------------------------------------|------------------------|----------------|---------|
-| Thrive Cannabis Marketplace | 3698 W Cactus Ave, Suite 107-109, Adult Use | 14194022211467850983 | Open 24 hours, 7 days a week, per Thrive's Southern Highlands and Get in Touch pages. Those pages list 3698 W. Cactus Ave., Las Vegas, NV 89141, phone (702) 330-0039 | 1.8 miles, about 3 minutes | N | Checked on 2026-11-12 |
-| The Source | 9480 S Eastern Ave, Suite 185 & 190, Adult Use | 59287610826909824091 | Mon–Sun, 8AM–11PM, per The Source locations page (Henderson – Eastern, 9480 S Eastern Ave, Suite 185, Las Vegas, NV 89123, phone (702) 708-2222) | 3.4 miles, about 6 minutes | Y | Checked on 2026-11-12 |
-| Nevada Made Marijuana | 95 E Warm Springs Rd, Adult Use | 27764211258972498624 | Hours not listed — no official hours page was fetched today | 3.5 miles, about 6 minutes | Y | Checked on 2026-11-12 |
-| Deep Roots Harvest Inc | 3725 Blue Diamond Rd, Adult Use | 33067718465021979566 | Store hours Mon–Sun, 7AM–12AM, per the Blue Diamond location page. That page also lists delivery and curbside hours Mon–Sun, 8AM–10PM, address 3725 Blue Diamond Rd, Las Vegas, NV 89139 | 3.9 miles, about 7 minutes | Y | Checked on 2026-11-12 |
-| GREEN. | 10420 S Eastern Ave, Suite 100, Adult Use | 55363208938053798722 | Hours not listed — no official hours page was fetched today. Census matched this street number in Henderson, NV 89052, which was used for the route | 4.4 miles, about 7 minutes | Y | Checked on 2026-11-12 |
-| The Dispensary | 8605 S Eastern Ave, Adult Use | 64345737726226352455 | Hours not listed — no official hours page was fetched today | 4.5 miles, about 8 minutes | Y | Checked on 2026-11-12 |
-| Wallflower Cannabis House | 6540 Blue Diamond Rd, Adult Use | 23003643426806888206 | Sales floor daily 7:00 AM–2:00 AM; curbside and drive-thru 24 hours, 7 days a week, per Wallflower's Blue Diamond page. That page lists 6540 Blue Diamond Rd, Las Vegas, NV 89139, phone (725) 205-2714 | 4.6 miles, about 8 minutes | Y | Checked on 2026-11-12 |
-{: .data-table .shop-table}
-
-Thrive's official Southern Highlands page also says the shop is "just two miles from South Point Hotel Casino & Spa." This page uses the measured 1.8-mile OSRM figure above, not that rounded marketing line.
-
-A note on Thrive delivery: Thrive's own pages mention same-day delivery, but the CCB list marks this address as delivery "N." This table follows the CCB flag.
 
 ## Legal basics (short)
 
@@ -96,3 +235,5 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Disclosure
 
 This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+
+</details>

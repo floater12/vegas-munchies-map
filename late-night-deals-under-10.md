@@ -9,7 +9,236 @@ nav_title: "Under $10"
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
-**Area / topic:** A cross-valley list of officially priced late-night plates under $10, including South Point's Coronado Cafe graveyard range, Station Casinos and Wildfire Late Night Savings, and PUB 365's late-night steak and eggs.
+A cross-valley list of officially priced late-night plates under $10, including South Point's Coronado Cafe graveyard range, Station Casinos and Wildfire Late Night Savings, and PUB 365's late-night steak and eggs.
+
+Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
+
+## South Point — Coronado Cafe graveyard specials
+
+<article class="listing">
+  <h3>Coronado Cafe at South Point Hotel, Casino &amp; Spa</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Daily, 24 hours</p>
+  <p class="listing-deal">"For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."</p>
+  <p class="listing-where">9777 Las Vegas Blvd South, Las Vegas, NV 89183</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Place:** Coronado Cafe at South Point Hotel, Casino & Spa
+  - **Address:** 9777 Las Vegas Blvd South, Las Vegas, NV 89183, as published on the cafe's official page
+  - **Hours:** Daily, 24 hours, with holiday exceptions: Thanksgiving Nov 26, 11am–10pm; Christmas Dec 24 and 25, 11am–10pm
+  - **Dress code:** Casual
+  - **Deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
+  - **Phone published on the same page:** Hotel (702) 796-7111
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+The official page does not name the six entrees or give line-item prices, a midnight–6am window, or a 21+ rule for the specials. This page uses only the published $2.95–$6.95 range. That entire range is under $10.
+
+**Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-12.
+
+## Station Casinos Late Night Savings
+
+**Items and windows, as published on the Station program page:**
+
+<article class="listing">
+  <h3>Cheeseburger Special</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">available 24/7</p>
+  <p class="listing-deal">$5.99 — "Quarter Pound Patty, Cheese, Lettuce, Tomato, Onion, Burger Sauce, Fries"</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Cheeseburger Special $5.99 — "Quarter Pound Patty, Cheese, Lettuce, Tomato, Onion, Burger Sauce, Fries" — available 24/7
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Pancakes</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">11 PM–6 AM every day</p>
+  <p class="listing-deal">$3.99 — "Butter, Maple Syrup, Powdered Sugar"</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Pancakes $3.99 — "Butter, Maple Syrup, Powdered Sugar" — 11 PM–6 AM every day
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Deuces Wild</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">11 PM–6 AM every day</p>
+  <p class="listing-deal">$4.99 — "Two Eggs, Choice Of Bacon or Sausage, Hash Browns, Toast"</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Deuces Wild $4.99 — "Two Eggs, Choice Of Bacon or Sausage, Hash Browns, Toast" — 11 PM–6 AM every day
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Steak &amp; Eggs</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">11 PM–6 AM every day</p>
+  <p class="listing-deal">$9.99 — "6oz. New York Steak, Two Eggs, Hash Browns, Toast"</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Steak & Eggs $9.99 — "6oz. New York Steak, Two Eggs, Hash Browns, Toast" — 11 PM–6 AM every day
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Biscuits &amp; Gravy</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">11 PM–6 AM every day</p>
+  <p class="listing-deal">$4.99 — "Two Eggs, Hash Browns"</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  Biscuits & Gravy $4.99 — "Two Eggs, Hash Browns" — 11 PM–6 AM every day
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Lucky Penny, Red Rock Casino Resort Spa</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Open 24 hours</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">11011 W Charleston Boulevard, Las Vegas, NV 89135</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 11011 W Charleston Boulevard, Las Vegas, NV 89135. Open 24 hours, per the Lucky Penny page (the page also reprints the Late Night Savings list and Boarding Pass terms). Phone on the property footer: (702) 797-7777
+  - **Hours, as published:** 11011 W Charleston Boulevard, Las Vegas, NV 89135. Open 24 hours, per the Lucky Penny page (the page also reprints the Late Night Savings list and Boarding Pass terms). Phone on the property footer: (702) 797-7777
+  - **Source:** [Lucky Penny](https://redrockresort.com/eat-and-drink/lucky-penny/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>The Brass Fork, Palace Station</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">24 hours, 7 days a week</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">2411 W Sahara Ave, Las Vegas, NV 89102</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** 2411 W Sahara Ave, Las Vegas, NV 89102. 24 hours, 7 days a week, per The Brass Fork page (the page also reprints the Late Night Savings list and terms). Phone on that page: 702.367.2411
+  - **Hours, as published:** 2411 W Sahara Ave, Las Vegas, NV 89102. 24 hours, 7 days a week, per The Brass Fork page (the page also reprints the Late Night Savings list and terms). Phone on that page: 702.367.2411
+  - **Source:** [The Brass Fork](https://palacestation.com/eat-and-drink/the-brass-fork/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Game On, Boulder Station</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">Official restaurant page: open 24 hours / 7 days a week, phone 702</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger
+  - **Hours, as published:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger
+  - **Source:** [Game On](https://boulderstation.com/eat-and-drink/game-on/), [Station property map](https://www.stationcasinos.com/property-map/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>The George, Durango Casino &amp; Resort</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">open 24/7, with late-night service listed as 11 PM–7 AM</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855
+  - **Hours, as published:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855
+  - **Source:** [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Barley's Cafe, Barley's Casino &amp; Brewing Company</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used
+  - **Hours, as published:** Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used
+  - **Source:** [Station property map](https://www.stationcasinos.com/property-map/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+<article class="listing">
+  <h3>Wild Grill (all Wild Grill locations)</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations."</p>
+  <p class="listing-deal">Late Night Savings</p>
+  <p class="listing-where">Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Address / listing text:** Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only
+  - **Hours, as published:** Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only
+  - **Source:** [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/)
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+## PUB 365 late-night steak and eggs — $8.99
+
+<article class="listing">
+  <h3>PUB 365 at Tuscany Suites &amp; Casino</h3>
+  <p class="listing-type"><span class="badge badge-food">Food</span></p>
+  <p class="listing-hours">Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM</p>
+  <p class="listing-deal">"late-night steak &amp; eggs special Starting at 10PM $8.99"</p>
+  <p class="listing-where">255 East Flamingo Rd., Las Vegas, Nevada 89169</p>
+  <details class="sources" markdown="1">
+  <summary>Details &amp; sources</summary>
+  
+  - **Place:** PUB 365 at Tuscany Suites & Casino
+  - **Address:** 255 East Flamingo Rd., Las Vegas, Nevada 89169, as published on Tuscany's official PUB 365 page
+  - **Hours, as published on that page:** Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM
+  - **Deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
+  - **Phone published on the same page:** (702) 944-5084
+  - **Checked on 2026-11-12**
+  
+  </details>
+</article>
+
+**Source:** [PUB 365 page on tuscanylv.com](https://www.tuscanylv.com/restaurant/pub-365-craft-beers/), fetched 2026-11-12.
+
+A separate pub365lv.com hours list fetched the same day disagrees with Tuscany's hours. Those conflicting hours were not used.
+
+<p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
+
+<details class="fine" markdown="1">
+<summary>The fine print (laws, how we check, sources)</summary>
 
 This page is part of a Las Vegas munchies map. It is for adults 21 and older. It is not legal advice. These restaurants are places to eat, not cannabis consumption lounges. You cannot use cannabis in a public place, in a vehicle, in a retail store, or on property where the owner has prohibited it, including casinos and hotels.
 
@@ -19,60 +248,13 @@ Every price and every time window below comes from an official restaurant, casin
 
 This is a food page. It does not pair each cafe with a dispensary. For licensed shops near South Point, mid-Strip, or downtown, use the [South Point](south-point-area.md), [Strip-adjacent](strip-adjacent.md), and [Downtown / Fremont](downtown-fremont.md) pages.
 
-## South Point — Coronado Cafe graveyard specials
-
-- **Place:** Coronado Cafe at South Point Hotel, Casino & Spa
-- **Address:** 9777 Las Vegas Blvd South, Las Vegas, NV 89183, as published on the cafe's official page
-- **Hours:** Daily, 24 hours, with holiday exceptions: Thanksgiving Nov 26, 11am–10pm; Christmas Dec 24 and 25, 11am–10pm
-- **Dress code:** Casual
-- **Deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
-- **Phone published on the same page:** Hotel (702) 796-7111
-- **Checked on 2026-11-12**
-
-The official page does not name the six entrees or give line-item prices, a midnight–6am window, or a 21+ rule for the specials. This page uses only the published $2.95–$6.95 range. That entire range is under $10.
-
-**Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-12.
-
-## Station Casinos Late Night Savings
-
 Official program page: [Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), fetched 2026-11-12. The same item list and terms also appear on the official pages for Lucky Penny, The Brass Fork, Game On, and The George, and on Wildfire Gaming's Late Night Savings page, which says the specials are "At Barley's Cafe and all Wild Grill locations."
-
-**Items and windows, as published on the Station program page:**
-
-- Cheeseburger Special $5.99 — "Quarter Pound Patty, Cheese, Lettuce, Tomato, Onion, Burger Sauce, Fries" — available 24/7
-- Pancakes $3.99 — "Butter, Maple Syrup, Powdered Sugar" — 11 PM–6 AM every day
-- Deuces Wild $4.99 — "Two Eggs, Choice Of Bacon or Sausage, Hash Browns, Toast" — 11 PM–6 AM every day
-- Steak & Eggs $9.99 — "6oz. New York Steak, Two Eggs, Hash Browns, Toast" — 11 PM–6 AM every day
-- Biscuits & Gravy $4.99 — "Two Eggs, Hash Browns" — 11 PM–6 AM every day
 
 **Terms, as published on that page and on the restaurant pages:** "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights." Checked on 2026-11-12.
 
 The Station program page names these venues: Lucky Penny, Brass Fork, Game On, The George, Wild Grill, and Barley's. Game On's and The George's own pages fetched today list the 11 PM–6 AM items but omit the 24/7 cheeseburger line; this page still uses the program-wide Station list for all named venues.
 
-| Venue | Official address and hours fetched 2026-11-12 | Sources | Checked |
-|-------|-----------------------------------------------|---------|---------|
-| Lucky Penny, Red Rock Casino Resort Spa | 11011 W Charleston Boulevard, Las Vegas, NV 89135. Open 24 hours, per the Lucky Penny page (the page also reprints the Late Night Savings list and Boarding Pass terms). Phone on the property footer: (702) 797-7777 | [Lucky Penny](https://redrockresort.com/eat-and-drink/lucky-penny/) | Checked on 2026-11-12 |
-| The Brass Fork, Palace Station | 2411 W Sahara Ave, Las Vegas, NV 89102. 24 hours, 7 days a week, per The Brass Fork page (the page also reprints the Late Night Savings list and terms). Phone on that page: 702.367.2411 | [The Brass Fork](https://palacestation.com/eat-and-drink/the-brass-fork/) | Checked on 2026-11-12 |
-| Game On, Boulder Station | Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger | [Game On](https://boulderstation.com/eat-and-drink/game-on/), [Station property map](https://www.stationcasinos.com/property-map/) | Checked on 2026-11-12 |
-| The George, Durango Casino & Resort | Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855 | [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/) | Checked on 2026-11-12 |
-| Barley's Cafe, Barley's Casino & Brewing Company | Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used | [Station property map](https://www.stationcasinos.com/property-map/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) | Checked on 2026-11-12 |
-| Wild Grill (all Wild Grill locations) | Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only | [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) | Checked on 2026-11-12 |
-{: .data-table .venue-table}
-
-## PUB 365 late-night steak and eggs — $8.99
-
-- **Place:** PUB 365 at Tuscany Suites & Casino
-- **Address:** 255 East Flamingo Rd., Las Vegas, Nevada 89169, as published on Tuscany's official PUB 365 page
-- **Hours, as published on that page:** Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM
-- **Deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
-- **Phone published on the same page:** (702) 944-5084
-- **Checked on 2026-11-12**
-
 The official page does not say whether a Boarding Pass or other card is required, and it does not say whether tax or gratuity is included. The special is listed as starting at 10 PM; this page does not invent an end time beyond the restaurant hours above.
-
-**Source:** [PUB 365 page on tuscanylv.com](https://www.tuscanylv.com/restaurant/pub-365-craft-beers/), fetched 2026-11-12.
-
-A separate pub365lv.com hours list fetched the same day disagrees with Tuscany's hours. Those conflicting hours were not used.
 
 ## Legal basics (short)
 
@@ -115,3 +297,5 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Disclosure
 
 This page has no affiliate links. If a later version adds any, a disclosure will appear here. This directory does not run Google Ads or Amazon links on cannabis content.
+
+</details>
