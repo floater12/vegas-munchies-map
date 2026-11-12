@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: area
 title: "Downtown / Fremont pairing"
-description: "The closest CCB-licensed dispensaries to downtown Las Vegas and the Fremont Street Experience. No current official late-night food prices were found on Fremont itself on 2026-11-12. Draft."
+description: "The closest CCB-licensed dispensaries to downtown Las Vegas and the Fremont Street Experience. No current official late-night food prices were found on Fremont itself on 2026-11-12."
+nav_title: "Downtown"
 ---
 
 # Downtown / Fremont pairing
-
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published.
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
@@ -38,6 +37,7 @@ Every store below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-l
 | Rise | 2307 S Las Vegas Blvd, Adult Use | 06347213896566425206 | Hours not listed — the official RISE Nevada dispensaries page fetched today did not publish hours for this address | 2.2 miles, about 6 minutes | Y |
 | Oasis Medical Cannabis | 1800 Industrial Rd, Suite 180, Adult Use | 55910347793434478299 | Hours not listed — no official hours page was fetched today | 2.3 miles, about 6 minutes | Y |
 | Sahara Wellness | 420 E Sahara Ave, Adult Use | 25729455103203031356 | Open 24 hours, 365 days a year, including holidays, per 420 Sahara's official homepage, which lists 420 E Sahara, Las Vegas, NV 89104, phone 702-478-5533. That page also says the shop does not currently offer delivery | 2.5 miles, about 7 minutes | Y |
+{: .shop-table}
 
 A note on Sahara Wellness delivery: the official 420 Sahara page says the shop does not currently offer delivery. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
 

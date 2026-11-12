@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#070910">
+    <meta name="color-scheme" content="dark">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip" href="#content">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">Vegas Munchies Map</a>
+        <nav class="nav" aria-label="Area pages">
+          {% for path in site.header_pages %}
+            {% assign item = site.pages | where: "path", path | first %}
+            {% if item %}
+              <a href="{{ item.url | relative_url }}"{% if item.url == page.url %} aria-current="page"{% endif %}>{{ item.nav_title | default: item.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <main id="content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Adults 21 and older. This is not legal advice, and it is not a guide to consuming cannabis in public, in a car, in a casino, or in a hotel.</p>
+        <p>No affiliate links. This directory does not run Google Ads or Amazon links on cannabis content.</p>
+      </div>
+    </footer>
+  </body>
+</html>

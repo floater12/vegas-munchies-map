@@ -1,35 +1,14 @@
 ---
-layout: default
+layout: home
 title: Las Vegas munchies map
-description: "Same-day-sourced directory of licensed Las Vegas dispensaries and nearby late-night food. For adults 21 and older. Draft, last verified 2026-11-12."
+description: "Same-day-sourced directory of licensed Las Vegas dispensaries and nearby late-night food. For adults 21 and older. Last verified 2026-11-12."
 ---
-
-# Las Vegas munchies map
-
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published. The South Point area page has been approved; the three pages fact-checked 2026-11-12 are still queued for her OK.
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
 This is a same-day-sourced directory of two things that are often asked about together in Las Vegas: real licensed dispensaries (and the few licensed consumption lounges), and nearby late-night food, including casino graveyard specials.
 
 It is for adults 21 and older. It is not legal advice, and it is not a guide to consuming cannabis in public, in a car, in a casino, or in a hotel.
-
-## How it works
-
-- Every dispensary or lounge on these pages was checked against the Nevada Cannabis Compliance Board licensee list. If a shop is not on that list, it is not listed here as a licensed store. Tribal establishments are not licensed by the CCB and are not on that list, so they are not listed here.
-- The CCB page fetched on 2026-11-12 is marked "Current as of 10/02/2026." Both dates are noted whenever that list is used. License status can change; re-check the list before relying on an older page.
-- Every food price and every food hour comes from an official restaurant or casino page fetched on the page's "last verified" date. Social posts and old menu PDFs are not good enough when they disagree with a current official page.
-- Distances, when shown, come from the U.S. Census Bureau Geocoder plus an OSRM driving route run that day. If a distance could not be verified, it is omitted.
-- Pages are drafted and then queued for Ashley's OK before they are treated as published, unless she has already approved that page.
-
-## Pages
-
-- [South Point / far south Las Vegas](south-point-area.md) — approved by Ashley; fact-checked 2026-11-11
-- [Strip-adjacent pairing](strip-adjacent.md) — draft, fact-checked 2026-11-12, queued for OK
-- [Downtown / Fremont pairing](downtown-fremont.md) — draft, fact-checked 2026-11-12, queued for OK
-- Off-Strip / Henderson pairing — queued, not started
-- West Valley / Station Casinos late-night pairing — queued, not started
-- [Late-night munchie deals under $10](late-night-deals-under-10.md) — draft, fact-checked 2026-11-12, queued for OK
 
 ## Legal basics (official wording)
 
@@ -54,6 +33,13 @@ NRS 678D.310(10) states: "A person may smoke or otherwise consume cannabis or a 
 **Driving.** The CCB page states: "It is illegal and dangerous to drive under the influence of cannabis."
 
 On 2026-11-12 the CCB list named three licensed consumption lounges, all Adult Use, none marked for delivery: DAZED! at 2548 W Desert Inn Rd; SOCIETY at 4640 Paradise Rd Ste 8-9; and SMOKE AND MIRRORS at 2975 Sammy Davis Jr Dr. Those addresses are on the Strip-adjacent page.
+
+## How it works
+
+- Every dispensary or lounge on these pages was checked against the Nevada Cannabis Compliance Board licensee list. If a shop is not on that list, it is not listed here as a licensed store. Tribal establishments are not licensed by the CCB and are not on that list, so they are not listed here.
+- The CCB page fetched on 2026-11-12 is marked "Current as of 10/02/2026." Both dates are noted whenever that list is used. License status can change; re-check the list before relying on an older page.
+- Every food price and every food hour comes from an official restaurant or casino page fetched on the page's "last verified" date. Social posts and old menu PDFs are not good enough when they disagree with a current official page.
+- Distances, when shown, come from the U.S. Census Bureau Geocoder plus an OSRM driving route run that day. If a distance could not be verified, it is omitted.
 
 ## Dropped from this hub
 

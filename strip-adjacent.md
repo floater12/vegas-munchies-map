@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: area
 title: "Strip-adjacent pairing"
-description: "The closest CCB-licensed dispensaries and consumption lounges to the Las Vegas Strip, paired with official late-night food just off the casino corridor. Draft, last verified 2026-11-12."
+description: "The closest CCB-licensed dispensaries and consumption lounges to the Las Vegas Strip, paired with official late-night food just off the casino corridor. Last verified 2026-11-12."
+nav_title: "The Strip"
 ---
 
 # Strip-adjacent pairing
-
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published.
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
@@ -39,6 +38,7 @@ Every store and lounge below is on the [CCB List of Licensees](https://ccb.nv.go
 | Thrive Cannabis Marketplace | 2975 Sammy Davis Jr Dr, Adult Use | 40050104995800309174 | Open 24 hours a day, 7 days a week, per Thrive's Get in Touch page, which labels this the "Las Vegas Strip" shop behind Resorts World and lists 2975 S Sammy Davis Jr Dr, Las Vegas, NV 89109, phone (725) 204-1825 | Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today | N |
 | SMOKE AND MIRRORS (consumption lounge) | 2975 Sammy Davis Jr Dr, Adult Use | 99035327095322531436 | Hours not listed — no official lounge hours page was fetched today | Distance not listed — same unmatched street name as the Thrive shop at this address | N |
 | Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 4.2 miles, about 8 minutes | Y |
+{: .shop-table}
 
 Planet 13's visit page also advertises a free shuttle to and from 15 Strip hotels (13 riders a trip; hours vary; book at (702) 500-0154) and says delivery is to residential addresses only, never hotels or casinos, daily 9 AM to 11:45 PM. The table follows the CCB delivery flag of Y for the store. The same page lists By The Slice and Bar 13, the complex's pizza restaurant, as daily 11 AM–11 PM. No food prices from that restaurant were published on the page fetched today, so none are listed here.
 
@@ -106,7 +106,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - **Hours for SMOKE AND MIRRORS and for Beyond/Hello at 430 E Twain Ave.** Official hours pages were not fetched today.
 - **Conflicting PUB 365 hours on pub365lv.com**, which disagree with Tuscany's official restaurant page. The Tuscany page was used.
 - **Peppermill entrée prices**, including any figure from a May 2024 menu PDF. The current homepage does not publish entrée prices.
-- **El Cortez, Binion's, and other downtown or mid-Strip menus** that could only be found as 2018 or undated PDFs. Held off this page; downtown leftovers are on the Downtown / Fremont draft.
+- **El Cortez, Binion's, and other downtown or mid-Strip menus** that could only be found as 2018 or undated PDFs. Held off this page; downtown leftovers are on the Downtown / Fremont page.
 - **Lucky Penny Late Night Savings** as a Strip-adjacent cafe. The official specials are real, but Lucky Penny at Red Rock is 12.2 miles / about 21 minutes from mid-Strip. It belongs on the [under-$10 deals page](late-night-deals-under-10.md), not in this cluster.
 - **Google Maps distances, traffic-adjusted times, and walking times.** Not used.
 

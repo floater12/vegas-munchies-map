@@ -1,10 +1,10 @@
 # Vegas Munchies Map
 
-GitHub Pages site, built with GitHub's Jekyll and the minima theme.
+GitHub Pages site, built with GitHub's Jekyll and a custom mobile-first layout.
 
 Licensed Las Vegas dispensaries paired with late-night eats, checked against official sources. The live site is [https://floater12.github.io/vegas-munchies-map/](https://floater12.github.io/vegas-munchies-map/).
 
-Pages stay marked draft until they are approved. Do not change prices, hours, addresses, license numbers, sources, or dates unless a new official check replaces them.
+The home page and four area pages are published. Do not change prices, hours, addresses, license numbers, sources, or dates unless a new official check replaces them.
 
 ## Add an area page
 

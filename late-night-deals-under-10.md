@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: area
 title: "Late-night munchie deals under $10"
-description: "Officially priced late-night plates under $10, including Coronado Cafe, Station Casinos and Wildfire Late Night Savings, and PUB 365. Draft, last verified 2026-11-12."
+description: "Officially priced late-night plates under $10, including Coronado Cafe, Station Casinos and Wildfire Late Night Savings, and PUB 365. Last verified 2026-11-12."
+nav_title: "Under $10"
 ---
 
 # Late-night munchie deals under $10
-
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published.
 
 **Last verified:** 2026-11-12 (America/Los_Angeles, PST)
 
@@ -57,6 +56,7 @@ The Station program page names these venues: Lucky Penny, Brass Fork, Game On, T
 | The George, Durango Casino & Resort | Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855 | [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/) |
 | Barley's Cafe, Barley's Casino & Brewing Company | Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used | [Station property map](https://www.stationcasinos.com/property-map/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) |
 | Wild Grill (all Wild Grill locations) | Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only | [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) |
+{: .venue-table}
 
 ## PUB 365 late-night steak and eggs — $8.99
 

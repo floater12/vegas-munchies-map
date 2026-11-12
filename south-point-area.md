@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: area
 title: South Point / far south Las Vegas pairing
-description: "Licensed dispensaries near South Point Hotel, Casino & Spa, paired with the official late-night graveyard specials at Coronado Cafe. Draft, last verified 2026-11-11."
+description: "Licensed dispensaries near South Point Hotel, Casino & Spa, paired with the official late-night graveyard specials at Coronado Cafe. Last verified 2026-11-11."
+nav_title: "South Point"
 ---
 
 # South Point / far south Las Vegas pairing
-
-**Status:** Draft — queued for Ashley's OK. Do not treat this as published.
 
 **Last verified:** 2026-11-11 (America/Los_Angeles, PST)
 
@@ -35,7 +34,7 @@ Line-item graveyard prices, a midnight–6am window, and a "21 and older" rule f
 
 **Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-11.
 
-No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances), but its late-night menu and hours were not confirmed from an official page successfully fetched today, so there is no Silverton food listing on this draft.
+No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances), but its late-night menu and hours were not confirmed from an official page successfully fetched today, so there is no Silverton food listing on this page.
 
 ## Licensed dispensaries near South Point
 
@@ -50,6 +49,7 @@ Every store below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-l
 | GREEN. | 10420 S Eastern Ave, Suite 100, Adult Use | 55363208938053798722 | Hours not listed — no official hours page was fetched today. Census matched this street number in Henderson, NV 89052, which was used for the route | 4.4 miles, about 7 minutes | Y |
 | The Dispensary | 8605 S Eastern Ave, Adult Use | 64345737726226352455 | Hours not listed — no official hours page was fetched today | 4.5 miles, about 8 minutes | Y |
 | Wallflower Cannabis House | 6540 Blue Diamond Rd, Adult Use | 23003643426806888206 | Sales floor daily 7:00 AM–2:00 AM; curbside and drive-thru 24 hours, 7 days a week, per Wallflower's Blue Diamond page. That page lists 6540 Blue Diamond Rd, Las Vegas, NV 89139, phone (725) 205-2714 | 4.6 miles, about 8 minutes | Y |
+{: .shop-table}
 
 Thrive's official Southern Highlands page also says the shop is "just two miles from South Point Hotel Casino & Spa." This page uses the measured 1.8-mile OSRM figure above, not that rounded marketing line.
 
