@@ -25,20 +25,20 @@ A retail consumption lounge attached to a store that was already in compliance i
 
 Every store and lounge below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) fetched 2026-11-12 (the Board marks that list "Current as of 10/02/2026"). Addresses, license numbers, adult-use status, and the delivery flag come from that list. Hours are included only when the business's own official page was fetched today. Distances are driving routes from 3600 S Las Vegas Blvd, Las Vegas, NV 89109, using the U.S. Census Bureau Geocoder (Public_AR_Current) and OSRM driving, run 2026-11-12.
 
-| Name | Address (CCB) | License | Hours (official page, 2026-11-12) | Drive from 3600 S Las Vegas Blvd | Delivery (CCB) |
-|------|---------------|---------|-----------------------------------|----------------------------------|----------------|
-| Mint Cannabis | 4503 Paradise Rd, Adult Use | 04045523128584413069 | Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556 | 1.5 miles, about 4 minutes | Y |
-| SOCIETY (consumption lounge) | 4640 Paradise Rd Ste 8-9, Adult Use | 99035327095322531446 | Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary | 1.7 miles, about 4 minutes | N |
-| Cookies Las Vegas | 4240 W Flamingo Rd, Suite 100, Adult Use | 01359449685112111637 | Open daily from 8 AM to 2 AM, per the Cookies Flamingo page. That page lists 4240 W Flamingo Rd, Las Vegas, NV 89103, phone 702-710-0810 | 1.9 miles, about 5 minutes | Y |
-| Planet 13 | 2548 W Desert Inn Rd, Adult Use | 62474301567586344896 | Open 24/7, every day of the year, including holidays, per Planet 13's visit page. Drive-thru pickup is listed as 9 AM to 11:45 PM. Address on that page: 2548 W Desert Inn Rd, Las Vegas, NV 89109 | 2.0 miles, about 6 minutes | Y |
-| DAZED! (consumption lounge) | 2548 W Desert Inn Rd, Adult Use | 99035327095322531435 | Mon–Wed, noon–midnight; Thu, 11 AM–midnight; Fri–Sun, 10 AM–2 AM, per Planet 13's visit page, which describes DAZED! as a licensed consumption lounge inside the Planet 13 complex | 2.0 miles, about 6 minutes | N |
-| The Spot | 4310 W Flamingo Rd, Adult Use | 28476312257204037070 | Official site visitthespot.com states the shop is open 24/7 with a 24-hour drive-thru, and its About page lists the location as 4310 W. Flamingo, Las Vegas 89103 | 2.0 miles, about 5 minutes | Y |
-| Cultivate | 3615 Spring Mountain Rd, Adult Use | 01653343486142530020 | Monday–Sunday, 8:00 AM–3:00 AM, per Cultivate's Spring Mountain page. That page lists 3615 Spring Mountain Rd, Las Vegas, NV 89102, phone (702) 778-1173 | 2.5 miles, about 6 minutes | Y |
-| Beyond/Hello | 430 E Twain Ave, Adult Use | 54588636135598286871 | Hours not listed — no official hours page was fetched today | 2.5 miles, about 6 minutes | Y |
-| Thrive Cannabis Marketplace | 2975 Sammy Davis Jr Dr, Adult Use | 40050104995800309174 | Open 24 hours a day, 7 days a week, per Thrive's Get in Touch page, which labels this the "Las Vegas Strip" shop behind Resorts World and lists 2975 S Sammy Davis Jr Dr, Las Vegas, NV 89109, phone (725) 204-1825 | Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today | N |
-| SMOKE AND MIRRORS (consumption lounge) | 2975 Sammy Davis Jr Dr, Adult Use | 99035327095322531436 | Hours not listed — no official lounge hours page was fetched today | Distance not listed — same unmatched street name as the Thrive shop at this address | N |
-| Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 4.2 miles, about 8 minutes | Y |
-{: .shop-table}
+| Name | Address (CCB) | License | Hours (official page, 2026-11-12) | Drive from 3600 S Las Vegas Blvd | Delivery (CCB) | Checked |
+|------|---------------|---------|-----------------------------------|----------------------------------|----------------|---------|
+| Mint Cannabis | 4503 Paradise Rd, Adult Use | 04045523128584413069 | Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556 | 1.5 miles, about 4 minutes | Y | Checked on 2026-11-12 |
+| SOCIETY (consumption lounge) | 4640 Paradise Rd Ste 8-9, Adult Use | 99035327095322531446 | Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary | 1.7 miles, about 4 minutes | N | Checked on 2026-11-12 |
+| Cookies Las Vegas | 4240 W Flamingo Rd, Suite 100, Adult Use | 01359449685112111637 | Open daily from 8 AM to 2 AM, per the Cookies Flamingo page. That page lists 4240 W Flamingo Rd, Las Vegas, NV 89103, phone 702-710-0810 | 1.9 miles, about 5 minutes | Y | Checked on 2026-11-12 |
+| Planet 13 | 2548 W Desert Inn Rd, Adult Use | 62474301567586344896 | Open 24/7, every day of the year, including holidays, per Planet 13's visit page. Drive-thru pickup is listed as 9 AM to 11:45 PM. Address on that page: 2548 W Desert Inn Rd, Las Vegas, NV 89109 | 2.0 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| DAZED! (consumption lounge) | 2548 W Desert Inn Rd, Adult Use | 99035327095322531435 | Mon–Wed, noon–midnight; Thu, 11 AM–midnight; Fri–Sun, 10 AM–2 AM, per Planet 13's visit page, which describes DAZED! as a licensed consumption lounge inside the Planet 13 complex | 2.0 miles, about 6 minutes | N | Checked on 2026-11-12 |
+| The Spot | 4310 W Flamingo Rd, Adult Use | 28476312257204037070 | Official site visitthespot.com states the shop is open 24/7 with a 24-hour drive-thru, and its About page lists the location as 4310 W. Flamingo, Las Vegas 89103 | 2.0 miles, about 5 minutes | Y | Checked on 2026-11-12 |
+| Cultivate | 3615 Spring Mountain Rd, Adult Use | 01653343486142530020 | Monday–Sunday, 8:00 AM–3:00 AM, per Cultivate's Spring Mountain page. That page lists 3615 Spring Mountain Rd, Las Vegas, NV 89102, phone (702) 778-1173 | 2.5 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| Beyond/Hello | 430 E Twain Ave, Adult Use | 54588636135598286871 | Hours not listed — no official hours page was fetched today | 2.5 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| Thrive Cannabis Marketplace | 2975 Sammy Davis Jr Dr, Adult Use | 40050104995800309174 | Open 24 hours a day, 7 days a week, per Thrive's Get in Touch page, which labels this the "Las Vegas Strip" shop behind Resorts World and lists 2975 S Sammy Davis Jr Dr, Las Vegas, NV 89109, phone (725) 204-1825 | Distance not listed — the Census Geocoder did not match "Sammy Davis Jr Dr" today | N | Checked on 2026-11-12 |
+| SMOKE AND MIRRORS (consumption lounge) | 2975 Sammy Davis Jr Dr, Adult Use | 99035327095322531436 | Hours not listed — no official lounge hours page was fetched today | Distance not listed — same unmatched street name as the Thrive shop at this address | N | Checked on 2026-11-12 |
+| Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 4.2 miles, about 8 minutes | Y | Checked on 2026-11-12 |
+{: .data-table .shop-table}
 
 Planet 13's visit page also advertises a free shuttle to and from 15 Strip hotels (13 riders a trip; hours vary; book at (702) 500-0154) and says delivery is to residential addresses only, never hotels or casinos, daily 9 AM to 11:45 PM. The table follows the CCB delivery flag of Y for the store. The same page lists By The Slice and Bar 13, the complex's pizza restaurant, as daily 11 AM–11 PM. No food prices from that restaurant were published on the page fetched today, so none are listed here.
 
@@ -55,6 +55,7 @@ SOCIETY's official page says it is connected to The Grove Las Vegas, that lounge
 - **Late-night deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
 - **Drive from 3600 S Las Vegas Blvd:** 1.7 miles, about 4 minutes
 - **Phone published on the same page:** (702) 944-5084
+- **Checked on 2026-11-12**
 
 The official page does not say whether tax or gratuity is included, and it does not state a closing time for the special other than the restaurant's own hours above. This listing uses only the $8.99 starting-at-10 PM line from that page.
 
@@ -68,6 +69,7 @@ A separate pub365lv.com hours list fetched the same day disagrees (it posts Mond
 - **Hours, as published:** Monday–Wednesday, 7am–2am, last seating 1:15am; Thursday–Sunday, open 24 hours
 - **Phone published on the same page:** 702.735.4177
 - **Drive from 3600 S Las Vegas Blvd:** 2.0 miles, about 6 minutes
+- **Checked on 2026-11-12**
 
 The homepage fetched today lists Reverse Happy Hour as drinks and half-off select appetizers. It does not publish current entrée prices, so no food price is listed here.
 
@@ -81,6 +83,7 @@ Palace Station is west of I-15, not on the Strip, but it is the closest official
 - **Hours, as published:** 24 hours, 7 days a week
 - **Late-night deal:** Station Casinos' Late Night Savings, with a Boarding Pass, dine-in only. See the [under-$10 deals page](late-night-deals-under-10.md) for the official item list and terms
 - **Drive from 3600 S Las Vegas Blvd:** 3.8 miles, about 8 minutes
+- **Checked on 2026-11-12**
 
 **Sources:** [The Brass Fork official page](https://palacestation.com/eat-and-drink/the-brass-fork/) and [Station Casinos Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), both fetched 2026-11-12.
 

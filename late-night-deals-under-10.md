@@ -27,6 +27,7 @@ This is a food page. It does not pair each cafe with a dispensary. For licensed 
 - **Dress code:** Casual
 - **Deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
 - **Phone published on the same page:** Hotel (702) 796-7111
+- **Checked on 2026-11-12**
 
 The official page does not name the six entrees or give line-item prices, a midnight–6am window, or a 21+ rule for the specials. This page uses only the published $2.95–$6.95 range. That entire range is under $10.
 
@@ -44,19 +45,19 @@ Official program page: [Late Night Savings](https://stationcasinos.com/sc-dining
 - Steak & Eggs $9.99 — "6oz. New York Steak, Two Eggs, Hash Browns, Toast" — 11 PM–6 AM every day
 - Biscuits & Gravy $4.99 — "Two Eggs, Hash Browns" — 11 PM–6 AM every day
 
-**Terms, as published on that page and on the restaurant pages:** "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights."
+**Terms, as published on that page and on the restaurant pages:** "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights." Checked on 2026-11-12.
 
 The Station program page names these venues: Lucky Penny, Brass Fork, Game On, The George, Wild Grill, and Barley's. Game On's and The George's own pages fetched today list the 11 PM–6 AM items but omit the 24/7 cheeseburger line; this page still uses the program-wide Station list for all named venues.
 
-| Venue | Official address and hours fetched 2026-11-12 | Sources |
-|-------|-----------------------------------------------|---------|
-| Lucky Penny, Red Rock Casino Resort Spa | 11011 W Charleston Boulevard, Las Vegas, NV 89135. Open 24 hours, per the Lucky Penny page (the page also reprints the Late Night Savings list and Boarding Pass terms). Phone on the property footer: (702) 797-7777 | [Lucky Penny](https://redrockresort.com/eat-and-drink/lucky-penny/) |
-| The Brass Fork, Palace Station | 2411 W Sahara Ave, Las Vegas, NV 89102. 24 hours, 7 days a week, per The Brass Fork page (the page also reprints the Late Night Savings list and terms). Phone on that page: 702.367.2411 | [The Brass Fork](https://palacestation.com/eat-and-drink/the-brass-fork/) |
-| Game On, Boulder Station | Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger | [Game On](https://boulderstation.com/eat-and-drink/game-on/), [Station property map](https://www.stationcasinos.com/property-map/) |
-| The George, Durango Casino & Resort | Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855 | [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/) |
-| Barley's Cafe, Barley's Casino & Brewing Company | Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used | [Station property map](https://www.stationcasinos.com/property-map/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) |
-| Wild Grill (all Wild Grill locations) | Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only | [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) |
-{: .venue-table}
+| Venue | Official address and hours fetched 2026-11-12 | Sources | Checked |
+|-------|-----------------------------------------------|---------|---------|
+| Lucky Penny, Red Rock Casino Resort Spa | 11011 W Charleston Boulevard, Las Vegas, NV 89135. Open 24 hours, per the Lucky Penny page (the page also reprints the Late Night Savings list and Boarding Pass terms). Phone on the property footer: (702) 797-7777 | [Lucky Penny](https://redrockresort.com/eat-and-drink/lucky-penny/) | Checked on 2026-11-12 |
+| The Brass Fork, Palace Station | 2411 W Sahara Ave, Las Vegas, NV 89102. 24 hours, 7 days a week, per The Brass Fork page (the page also reprints the Late Night Savings list and terms). Phone on that page: 702.367.2411 | [The Brass Fork](https://palacestation.com/eat-and-drink/the-brass-fork/) | Checked on 2026-11-12 |
+| Game On, Boulder Station | Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger | [Game On](https://boulderstation.com/eat-and-drink/game-on/), [Station property map](https://www.stationcasinos.com/property-map/) | Checked on 2026-11-12 |
+| The George, Durango Casino & Resort | Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855 | [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/) | Checked on 2026-11-12 |
+| Barley's Cafe, Barley's Casino & Brewing Company | Address from the Station property map: 4500 E Sunset Road Suite 30, Henderson, NV 89014, phone (702) 458-2739. Named on both the Station and Wildfire Late Night Savings pages. Cafe operating hours were not confirmed from an official hours page today, so only the promotion's own 24/7 cheeseburger and 11 PM–6 AM windows are used | [Station property map](https://www.stationcasinos.com/property-map/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) | Checked on 2026-11-12 |
+| Wild Grill (all Wild Grill locations) | Named on the Station program page and, more specifically, on Wildfire Gaming's Late Night Savings page as "all Wild Grill locations." Individual Wild Grill operating hours, and a complete conflict-free address list for every Wild Grill, were not all confirmed today (Wildfire's eat-and-drink page repeats Valley View at two different street numbers). This row uses the program name only | [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/) | Checked on 2026-11-12 |
+{: .data-table .venue-table}
 
 ## PUB 365 late-night steak and eggs — $8.99
 
@@ -65,6 +66,7 @@ The Station program page names these venues: Lucky Penny, Brass Fork, Game On, T
 - **Hours, as published on that page:** Monday–Wednesday, 12:00 PM–2:00 AM; Thursday–Friday, 12:00 PM–3:00 AM; Saturday, 9:45 AM–3:00 AM; Sunday, 9:45 AM–2:00 AM
 - **Deal, as published:** "late-night steak & eggs special Starting at 10PM $8.99"
 - **Phone published on the same page:** (702) 944-5084
+- **Checked on 2026-11-12**
 
 The official page does not say whether a Boarding Pass or other card is required, and it does not say whether tax or gratuity is included. The special is listed as starting at 10 PM; this page does not invent an end time beyond the restaurant hours above.
 

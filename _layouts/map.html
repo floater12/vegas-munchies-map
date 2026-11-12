@@ -1,0 +1,120 @@
+---
+layout: default
+---
+<div class="wrap map-intro">
+  <p class="back-row"><a class="back" href="{{ '/' | relative_url }}">Back to home</a></p>
+  <h1>Map</h1>
+  <p class="tagline">Every dispensary, consumption lounge, and late-night food spot listed on these pages. Checked on 2026-11-12.</p>
+  <div class="map-toolbar">
+    <button type="button" id="near-me">Near me</button>
+    <ul class="legend">
+      <li><span class="swatch swatch-dispensary"></span> Dispensary</li>
+      <li><span class="swatch swatch-lounge"></span> Lounge</li>
+      <li><span class="swatch swatch-food"></span> Food</li>
+    </ul>
+  </div>
+</div>
+<div id="vegas-map" class="vegas-map" role="region" aria-label="Map of listed dispensaries, lounges, and late-night food"></div>
+<div class="wrap">
+  <p class="near-status" id="near-status" role="status"></p>
+  <article class="prose">
+    {{ content }}
+  </article>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function () {
+  var dataUrl = {{ '/assets/map-data.json' | relative_url | jsonify }};
+  var base = {{ site.baseurl | jsonify }};
+  var pageNames = {
+    "south-point-area": "South Point",
+    "strip-adjacent": "Strip-adjacent",
+    "downtown-fremont": "Downtown / Fremont",
+    "late-night-deals-under-10": "Under $10 deals",
+    "henderson": "Henderson",
+    "west-valley": "West Valley",
+    "summerlin": "Summerlin",
+    "open-at-2am": "Open at 2 AM"
+  };
+  var colors = {
+    dispensary: "#ff4fa3",
+    lounge: "#5dffb0",
+    food: "#f0c14a"
+  };
+  var typeLabels = {
+    dispensary: "Dispensary",
+    lounge: "Lounge",
+    food: "Food"
+  };
+  var map = L.map("vegas-map", { scrollWheelZoom: false });
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  function esc(value) {
+    return String(value == null ? "" : value).replace(/[&<>"']/g, function (ch) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch];
+    });
+  }
+
+  var status = document.getElementById("near-status");
+  var here = null;
+
+  fetch(dataUrl).then(function (response) {
+    if (!response.ok) throw new Error("map data");
+    return response.json();
+  }).then(function (points) {
+    var bounds = [];
+    points.forEach(function (point) {
+      var color = colors[point.type] || "#f7f3ea";
+      var marker = L.circleMarker([point.lat, point.lng], {
+        radius: 8,
+        color: "#070910",
+        weight: 1,
+        fillColor: color,
+        fillOpacity: 0.95
+      }).addTo(map);
+      var pageName = pageNames[point.page] || point.page;
+      var pageHref = base + "/" + point.page + ".html";
+      marker.bindPopup(
+        "<p><strong>" + esc(point.name) + "</strong></p>" +
+        "<p class=\"popup-type\">" + esc(typeLabels[point.type] || point.type) + "</p>" +
+        "<p>" + esc(point.address) + "</p>" +
+        "<p><a href=\"" + esc(pageHref) + "\">" + esc(pageName) + " page</a></p>" +
+        "<p><a href=\"" + esc(point.source_url) + "\">Source</a></p>" +
+        "<p>Checked on " + esc(point.last_checked) + "</p>"
+      );
+      bounds.push([point.lat, point.lng]);
+    });
+    if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
+    setTimeout(function () { map.invalidateSize(); }, 0);
+  }).catch(function () {
+    status.textContent = "The map points did not load.";
+  });
+
+  document.getElementById("near-me").addEventListener("click", function () {
+    if (!navigator.geolocation) {
+      status.textContent = "This browser cannot share a location.";
+      return;
+    }
+    status.textContent = "Asking for your location…";
+    navigator.geolocation.getCurrentPosition(function (pos) {
+      var latlng = [pos.coords.latitude, pos.coords.longitude];
+      if (here) map.removeLayer(here);
+      here = L.circleMarker(latlng, {
+        radius: 8,
+        color: "#f7f3ea",
+        weight: 2,
+        fillColor: "#ffffff",
+        fillOpacity: 1
+      }).addTo(map);
+      here.bindPopup("You are here");
+      map.setView(latlng, 13);
+      status.textContent = "Showing your location on this map. It is not saved.";
+    }, function () {
+      status.textContent = "Location was not available. You can still pan the map.";
+    }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 });
+  });
+})();
+</script>

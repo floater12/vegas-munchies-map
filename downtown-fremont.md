@@ -25,19 +25,19 @@ No CCB-licensed consumption lounge sits in this downtown cluster on the list fet
 
 Every store below is on the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) fetched 2026-11-12 (the Board marks that list "Current as of 10/02/2026"). Addresses, license numbers, adult-use status, and the delivery flag come from that list. Hours are included only when the store's own official page was fetched today. Distances are driving routes from 200 Fremont St, Las Vegas, NV 89101, using the U.S. Census Bureau Geocoder (Public_AR_Current) and OSRM driving, run 2026-11-12.
 
-| Name | Address (CCB) | License | Hours (official shop page, 2026-11-12) | Drive from 200 Fremont St | Delivery (CCB) |
-|------|---------------|---------|----------------------------------------|---------------------------|----------------|
-| Canna Starz | 631 S Las Vegas Blvd, Adult Use | 00170400460138702033 | Open 24 hours / 24/7, per CannaStarz's official 24-hour and contact pages. Those pages list 631 S Las Vegas Blvd., phone 702-982-6244 | 1.0 mile, about 3 minutes | N |
-| Greenlight Dispensary | 823 S 3rd St, Adult Use | 67501179020484699802 | Everyday, 8:00 AM–10:00 PM; closed Thanksgiving and Christmas Day, per Greenlight's Downtown page. That page lists 823 S 3rd St, Las Vegas, NV 89101, phone (702) 936-4060 | 1.1 miles, about 3 minutes | Y |
-| The Cannabis Co. | 200 E Charleston Blvd, Adult Use | 11679863451946958412 | Open daily, 9:00 AM–10:00 PM, per The Cannabis Co. Las Vegas page. That page lists 200 E Charleston, Las Vegas, NV 89104, phone (702) 625-7542 | 1.3 miles, about 3 minutes | N |
-| The Sanctuary Dispensaries | 1324 S 3rd St, Adult Use | 33333930069916107890 | Hours not listed — the official Sanctuary site fetched today is for a different CCB address (2113 N Las Vegas Blvd in North Las Vegas) and was not used for this store | 1.3 miles, about 4 minutes | Y |
-| Thrive Cannabis Marketplace | 1317 S Main St, Adult Use | 30384137740970358778 | Open from 10 am to 1 am, 7 days a week, per Thrive's Get in Touch page. That page lists 1317 S. Main St., Las Vegas, NV 89104, phone (702) 356-3634 | 1.7 miles, about 5 minutes | Y |
-| Curaleaf | 1736 S Las Vegas Blvd, Adult Use | 50748233769645953480 | Hours not listed — no official Curaleaf hours page was successfully fetched today | 1.7 miles, about 5 minutes | Y |
-| Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 2.2 miles, about 6 minutes | Y |
-| Rise | 2307 S Las Vegas Blvd, Adult Use | 06347213896566425206 | Hours not listed — the official RISE Nevada dispensaries page fetched today did not publish hours for this address | 2.2 miles, about 6 minutes | Y |
-| Oasis Medical Cannabis | 1800 Industrial Rd, Suite 180, Adult Use | 55910347793434478299 | Hours not listed — no official hours page was fetched today | 2.3 miles, about 6 minutes | Y |
-| Sahara Wellness | 420 E Sahara Ave, Adult Use | 25729455103203031356 | Open 24 hours, 365 days a year, including holidays, per 420 Sahara's official homepage, which lists 420 E Sahara, Las Vegas, NV 89104, phone 702-478-5533. That page also says the shop does not currently offer delivery | 2.5 miles, about 7 minutes | Y |
-{: .shop-table}
+| Name | Address (CCB) | License | Hours (official shop page, 2026-11-12) | Drive from 200 Fremont St | Delivery (CCB) | Checked |
+|------|---------------|---------|----------------------------------------|---------------------------|----------------|---------|
+| Canna Starz | 631 S Las Vegas Blvd, Adult Use | 00170400460138702033 | Open 24 hours / 24/7, per CannaStarz's official 24-hour and contact pages. Those pages list 631 S Las Vegas Blvd., phone 702-982-6244 | 1.0 mile, about 3 minutes | N | Checked on 2026-11-12 |
+| Greenlight Dispensary | 823 S 3rd St, Adult Use | 67501179020484699802 | Everyday, 8:00 AM–10:00 PM; closed Thanksgiving and Christmas Day, per Greenlight's Downtown page. That page lists 823 S 3rd St, Las Vegas, NV 89101, phone (702) 936-4060 | 1.1 miles, about 3 minutes | Y | Checked on 2026-11-12 |
+| The Cannabis Co. | 200 E Charleston Blvd, Adult Use | 11679863451946958412 | Open daily, 9:00 AM–10:00 PM, per The Cannabis Co. Las Vegas page. That page lists 200 E Charleston, Las Vegas, NV 89104, phone (702) 625-7542 | 1.3 miles, about 3 minutes | N | Checked on 2026-11-12 |
+| The Sanctuary Dispensaries | 1324 S 3rd St, Adult Use | 33333930069916107890 | Hours not listed — the official Sanctuary site fetched today is for a different CCB address (2113 N Las Vegas Blvd in North Las Vegas) and was not used for this store | 1.3 miles, about 4 minutes | Y | Checked on 2026-11-12 |
+| Thrive Cannabis Marketplace | 1317 S Main St, Adult Use | 30384137740970358778 | Open from 10 am to 1 am, 7 days a week, per Thrive's Get in Touch page. That page lists 1317 S. Main St., Las Vegas, NV 89104, phone (702) 356-3634 | 1.7 miles, about 5 minutes | Y | Checked on 2026-11-12 |
+| Curaleaf | 1736 S Las Vegas Blvd, Adult Use | 50748233769645953480 | Hours not listed — no official Curaleaf hours page was successfully fetched today | 1.7 miles, about 5 minutes | Y | Checked on 2026-11-12 |
+| Greenlight Dispensary | 2244 Paradise Rd, Adult Use | 54283805068313943868 | Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 | 2.2 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| Rise | 2307 S Las Vegas Blvd, Adult Use | 06347213896566425206 | Hours not listed — the official RISE Nevada dispensaries page fetched today did not publish hours for this address | 2.2 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| Oasis Medical Cannabis | 1800 Industrial Rd, Suite 180, Adult Use | 55910347793434478299 | Hours not listed — no official hours page was fetched today | 2.3 miles, about 6 minutes | Y | Checked on 2026-11-12 |
+| Sahara Wellness | 420 E Sahara Ave, Adult Use | 25729455103203031356 | Open 24 hours, 365 days a year, including holidays, per 420 Sahara's official homepage, which lists 420 E Sahara, Las Vegas, NV 89104, phone 702-478-5533. That page also says the shop does not currently offer delivery | 2.5 miles, about 7 minutes | Y | Checked on 2026-11-12 |
+{: .data-table .shop-table}
 
 A note on Sahara Wellness delivery: the official 420 Sahara page says the shop does not currently offer delivery. The CCB list marks this address as delivery "Y." This table follows the CCB flag.
 
@@ -55,6 +55,7 @@ The closest official late-night options measured from 200 Fremont St today are o
 - **Hours, as published:** 24 hours, 7 days a week
 - **Late-night deal:** Station Casinos' Late Night Savings, with a Boarding Pass, dine-in only. Official items and terms are on the [under-$10 deals page](late-night-deals-under-10.md)
 - **Drive from 200 Fremont St:** 4.1 miles, about 8 minutes
+- **Checked on 2026-11-12**
 
 **Sources:** [The Brass Fork official page](https://palacestation.com/eat-and-drink/the-brass-fork/) and [Station Casinos Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), both fetched 2026-11-12.
 
@@ -64,6 +65,7 @@ The closest official late-night options measured from 200 Fremont St today are o
 - **Hours, as published:** Monday–Wednesday, 7am–2am, last seating 1:15am; Thursday–Sunday, open 24 hours
 - **Food prices:** none listed — the homepage fetched today does not publish current entrée prices
 - **Drive from 200 Fremont St:** 3.7 miles, about 10 minutes
+- **Checked on 2026-11-12**
 
 **Source:** [Peppermill official homepage](https://www.peppermilllasvegas.com/), fetched 2026-11-12.
 

@@ -1,0 +1,748 @@
+[
+ {
+  "name": "Coronado Cafe at South Point",
+  "type": "food",
+  "address": "9777 Las Vegas Blvd South, Las Vegas, NV 89183",
+  "lat": 36.012322,
+  "lng": -115.172477,
+  "page": "south-point-area",
+  "source_url": "https://southpointcasino.com/dining/coronado-cafe",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "late-night-deals-under-10",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Thrive Cannabis Marketplace (Southern Highlands)",
+  "type": "dispensary",
+  "address": "3698 W Cactus Ave, Las Vegas, NV 89141",
+  "lat": 35.998996,
+  "lng": -115.188139,
+  "page": "south-point-area",
+  "source_url": "https://thrivenevada.com/southern-highlands-weed-dispensary-menu/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "14194022211467850983"
+ },
+ {
+  "name": "The Source (Henderson - Eastern)",
+  "type": "dispensary",
+  "address": "9480 S Eastern Ave, Las Vegas, NV 89123",
+  "lat": 36.017002,
+  "lng": -115.118625,
+  "page": "south-point-area",
+  "source_url": "https://www.thesourcenv.com/locations/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "henderson"
+  ],
+  "geocoder": "census",
+  "ccb_license": "59287610826909824091"
+ },
+ {
+  "name": "Nevada Made Marijuana (Warm Springs)",
+  "type": "dispensary",
+  "address": "95 E Warm Springs Rd, Las Vegas, NV 89119",
+  "lat": 36.056875,
+  "lng": -115.165609,
+  "page": "south-point-area",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "27764211258972498624"
+ },
+ {
+  "name": "Deep Roots Harvest (Blue Diamond)",
+  "type": "dispensary",
+  "address": "3725 Blue Diamond Rd, Las Vegas, NV 89139",
+  "lat": 36.040224,
+  "lng": -115.190478,
+  "page": "south-point-area",
+  "source_url": "https://www.deeprootsharvest.com/locations/las-vegas-blue-diamond/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "33067718465021979566"
+ },
+ {
+  "name": "GREEN. (Henderson)",
+  "type": "dispensary",
+  "address": "10420 S Eastern Ave, Henderson, NV 89052",
+  "lat": 36.001231,
+  "lng": -115.107159,
+  "page": "south-point-area",
+  "source_url": "https://greennv.com/locations/henderson",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "henderson"
+  ],
+  "geocoder": "census",
+  "ccb_license": "55363208938053798722"
+ },
+ {
+  "name": "The Dispensary (Eastern)",
+  "type": "dispensary",
+  "address": "8605 S Eastern Ave, Las Vegas, NV 89123",
+  "lat": 36.033164,
+  "lng": -115.118453,
+  "page": "south-point-area",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "64345737726226352455"
+ },
+ {
+  "name": "Wallflower Cannabis House (Blue Diamond)",
+  "type": "dispensary",
+  "address": "6540 Blue Diamond Rd, Las Vegas, NV 89139",
+  "lat": 36.023757,
+  "lng": -115.236182,
+  "page": "south-point-area",
+  "source_url": "https://wallflower-house.com/location/las-vegas/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "23003643426806888206"
+ },
+ {
+  "name": "Mint Cannabis (Paradise)",
+  "type": "dispensary",
+  "address": "4503 Paradise Rd, Las Vegas, NV 89169",
+  "lat": 36.107868,
+  "lng": -115.152068,
+  "page": "strip-adjacent",
+  "source_url": "https://mintdeals.com/paradise-lv/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "04045523128584413069"
+ },
+ {
+  "name": "SOCIETY (consumption lounge)",
+  "type": "lounge",
+  "address": "4640 Paradise Rd, Las Vegas, NV 89169",
+  "lat": 36.10567,
+  "lng": -115.151244,
+  "page": "strip-adjacent",
+  "source_url": "https://www.thegrovenv.com/society-elevated-lounge/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "99035327095322531446"
+ },
+ {
+  "name": "Cookies Las Vegas (Flamingo)",
+  "type": "dispensary",
+  "address": "4240 W Flamingo Rd, Las Vegas, NV 89103",
+  "lat": 36.115674,
+  "lng": -115.196929,
+  "page": "strip-adjacent",
+  "source_url": "https://cookiesdispensary.com/nevada/weed-dispensary-near-paradise/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "01359449685112111637"
+ },
+ {
+  "name": "Planet 13",
+  "type": "dispensary",
+  "address": "2548 W Desert Inn Rd, Las Vegas, NV 89109",
+  "lat": 36.129742,
+  "lng": -115.175986,
+  "page": "strip-adjacent",
+  "source_url": "https://planet13.com/visit",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "62474301567586344896"
+ },
+ {
+  "name": "DAZED! (consumption lounge)",
+  "type": "lounge",
+  "address": "2548 W Desert Inn Rd, Las Vegas, NV 89109",
+  "lat": 36.129742,
+  "lng": -115.175986,
+  "page": "strip-adjacent",
+  "source_url": "https://planet13.com/visit",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "99035327095322531435"
+ },
+ {
+  "name": "The Spot",
+  "type": "dispensary",
+  "address": "4310 W Flamingo Rd, Las Vegas, NV 89103",
+  "lat": 36.115678,
+  "lng": -115.197983,
+  "page": "strip-adjacent",
+  "source_url": "https://visitthespot.com/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "28476312257204037070"
+ },
+ {
+  "name": "Cultivate (Spring Mountain)",
+  "type": "dispensary",
+  "address": "3615 Spring Mountain Rd, Las Vegas, NV 89102",
+  "lat": 36.126393,
+  "lng": -115.188088,
+  "page": "strip-adjacent",
+  "source_url": "https://cultivatelv.com/location/spring-mountain/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "01653343486142530020"
+ },
+ {
+  "name": "Beyond/Hello (Twain)",
+  "type": "dispensary",
+  "address": "430 E Twain Ave, Las Vegas, NV 89169",
+  "lat": 36.121306,
+  "lng": -115.153763,
+  "page": "strip-adjacent",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "54588636135598286871"
+ },
+ {
+  "name": "Greenlight Dispensary (Paradise)",
+  "type": "dispensary",
+  "address": "2244 Paradise Rd, Las Vegas, NV 89104",
+  "lat": 36.144277,
+  "lng": -115.154668,
+  "page": "strip-adjacent",
+  "source_url": "https://greenlightdispensary.com/locations/paradise/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "downtown-fremont"
+  ],
+  "geocoder": "census",
+  "ccb_license": "54283805068313943868"
+ },
+ {
+  "name": "PUB 365 at Tuscany Suites & Casino",
+  "type": "food",
+  "address": "255 East Flamingo Rd., Las Vegas, NV 89169",
+  "lat": 36.114463,
+  "lng": -115.161296,
+  "page": "strip-adjacent",
+  "source_url": "https://www.tuscanylv.com/restaurant/pub-365-craft-beers/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "downtown-fremont",
+   "late-night-deals-under-10",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Peppermill Restaurant & Fireside Lounge",
+  "type": "food",
+  "address": "2985 Las Vegas Blvd. S, Las Vegas, NV 89109",
+  "lat": 36.133991,
+  "lng": -115.163612,
+  "page": "strip-adjacent",
+  "source_url": "https://www.peppermilllasvegas.com/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "downtown-fremont",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "The Brass Fork at Palace Station",
+  "type": "food",
+  "address": "2411 W Sahara Ave, Las Vegas, NV 89102",
+  "lat": 36.144148,
+  "lng": -115.175567,
+  "page": "strip-adjacent",
+  "source_url": "https://palacestation.com/eat-and-drink/the-brass-fork/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "downtown-fremont",
+   "late-night-deals-under-10",
+   "west-valley",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Canna Starz",
+  "type": "dispensary",
+  "address": "631 S Las Vegas Blvd, Las Vegas, NV 89101",
+  "lat": 36.163017,
+  "lng": -115.144644,
+  "page": "downtown-fremont",
+  "source_url": "https://cannastarz.com/24-hour-cannabis-dispensary-downtown-vegas/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "00170400460138702033"
+ },
+ {
+  "name": "Greenlight Dispensary (Downtown)",
+  "type": "dispensary",
+  "address": "823 S 3rd St, Las Vegas, NV 89101",
+  "lat": 36.161749,
+  "lng": -115.148396,
+  "page": "downtown-fremont",
+  "source_url": "https://greenlightdispensary.com/locations/downtown-las-vegas/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "67501179020484699802"
+ },
+ {
+  "name": "The Cannabis Co.",
+  "type": "dispensary",
+  "address": "200 E Charleston Blvd, Las Vegas, NV 89104",
+  "lat": 36.15872,
+  "lng": -115.152183,
+  "page": "downtown-fremont",
+  "source_url": "https://thecannabisconv.com/las-vegas/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "11679863451946958412"
+ },
+ {
+  "name": "The Sanctuary Dispensaries (S 3rd St)",
+  "type": "dispensary",
+  "address": "1324 S 3rd St, Las Vegas, NV 89101",
+  "lat": 36.159535,
+  "lng": -115.150009,
+  "page": "downtown-fremont",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "33333930069916107890"
+ },
+ {
+  "name": "Thrive Cannabis Marketplace (Main St)",
+  "type": "dispensary",
+  "address": "1317 S Main St, Las Vegas, NV 89104",
+  "lat": 36.155851,
+  "lng": -115.153698,
+  "page": "downtown-fremont",
+  "source_url": "https://thrivenevada.com/get-in-touch/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "30384137740970358778"
+ },
+ {
+  "name": "Curaleaf (Las Vegas Blvd S)",
+  "type": "dispensary",
+  "address": "1736 S Las Vegas Blvd, Las Vegas, NV 89104",
+  "lat": 36.150674,
+  "lng": -115.152863,
+  "page": "downtown-fremont",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "50748233769645953480"
+ },
+ {
+  "name": "RISE (Las Vegas Blvd S)",
+  "type": "dispensary",
+  "address": "2307 S Las Vegas Blvd, Las Vegas, NV 89104",
+  "lat": 36.14533,
+  "lng": -115.156218,
+  "page": "downtown-fremont",
+  "source_url": "https://risecannabis.com/dispensaries/nevada/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "06347213896566425206"
+ },
+ {
+  "name": "Oasis Medical Cannabis",
+  "type": "dispensary",
+  "address": "1800 Industrial Rd, Las Vegas, NV 89102",
+  "lat": 36.150296,
+  "lng": -115.160756,
+  "page": "downtown-fremont",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "55910347793434478299"
+ },
+ {
+  "name": "Sahara Wellness",
+  "type": "dispensary",
+  "address": "420 E Sahara Ave, Las Vegas, NV 89104",
+  "lat": 36.14385,
+  "lng": -115.151714,
+  "page": "downtown-fremont",
+  "source_url": "https://420sahara.com/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "25729455103203031356"
+ },
+ {
+  "name": "Lucky Penny at Red Rock Casino Resort Spa",
+  "type": "food",
+  "address": "11011 W Charleston Boulevard, Las Vegas, NV 89135",
+  "lat": 36.158762,
+  "lng": -115.333852,
+  "page": "late-night-deals-under-10",
+  "source_url": "https://redrockresort.com/eat-and-drink/lucky-penny/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "west-valley",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Game On at Boulder Station",
+  "type": "food",
+  "address": "4111 Boulder Highway, Las Vegas, NV 89121",
+  "lat": 36.131658,
+  "lng": -115.08535,
+  "page": "late-night-deals-under-10",
+  "source_url": "https://boulderstation.com/eat-and-drink/game-on/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "west-valley",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "The George at Durango Casino & Resort",
+  "type": "food",
+  "address": "6915 S. Durango Dr., Las Vegas, NV 89148",
+  "lat": 36.064272,
+  "lng": -115.279406,
+  "page": "late-night-deals-under-10",
+  "source_url": "https://durangoresort.com/eat-and-drink/the-george/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "west-valley",
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Deep Roots Harvest (Parkson, Henderson)",
+  "type": "dispensary",
+  "address": "580 Parkson Rd, Henderson, NV 89011",
+  "lat": 36.063013,
+  "lng": -115.02229,
+  "page": "henderson",
+  "source_url": "https://www.deeprootsharvest.com/locations/parkson/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "06085399432340594372"
+ },
+ {
+  "name": "RISE (E Sunset Rd, Henderson)",
+  "type": "dispensary",
+  "address": "4300 E Sunset Rd, Henderson, NV 89014",
+  "lat": 36.0724,
+  "lng": -115.080686,
+  "page": "henderson",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "nominatim",
+  "ccb_license": "19873661470522818141"
+ },
+ {
+  "name": "The Dispensary (Gibson, Henderson)",
+  "type": "dispensary",
+  "address": "50 N Gibson Rd, Henderson, NV 89014",
+  "lat": 36.034138,
+  "lng": -115.029345,
+  "page": "henderson",
+  "source_url": "https://thedispensarynv.com/location-gibson/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "08792343110299625005"
+ },
+ {
+  "name": "The Source (Henderson - Water St.)",
+  "type": "dispensary",
+  "address": "450 N Water St, Henderson, NV 89015",
+  "lat": 36.043889,
+  "lng": -114.988827,
+  "page": "henderson",
+  "source_url": "https://www.thesourcenv.com/locations/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "41608878118736307569"
+ },
+ {
+  "name": "RISE (S Boulder Hwy, Henderson)",
+  "type": "dispensary",
+  "address": "1000 S Boulder Hwy, Henderson, NV 89015",
+  "lat": 36.018929,
+  "lng": -114.958571,
+  "page": "henderson",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "43490264137335866974"
+ },
+ {
+  "name": "Wallflower Cannabis House (Inspirada, Henderson)",
+  "type": "dispensary",
+  "address": "3485 Volunteer Blvd, Henderson, NV 89044",
+  "lat": 35.959784,
+  "lng": -115.140508,
+  "page": "henderson",
+  "source_url": "https://wallflower-house.com/location/henderson/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "65945966941949057205"
+ },
+ {
+  "name": "The Brass Fork at Sunset Station",
+  "type": "food",
+  "address": "1301 W Sunset Rd, Henderson, NV 89014",
+  "lat": 36.063673,
+  "lng": -115.040339,
+  "page": "henderson",
+  "source_url": "https://sunsetstation.com/eat-and-drink/the-brass-fork/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Wild Grill Boulder at Wildfire Boulder",
+  "type": "food",
+  "address": "2000 S Boulder Hwy, Henderson, NV 89002",
+  "lat": 36.004618,
+  "lng": -114.942416,
+  "page": "henderson",
+  "source_url": "https://wildfiregaming.com/wildfires/wildfire-boulder/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Nevada Made Marijuana (Charleston)",
+  "type": "dispensary",
+  "address": "7650 W Charleston Blvd, Las Vegas, NV 89117",
+  "lat": 36.15922,
+  "lng": -115.260743,
+  "page": "summerlin",
+  "source_url": "https://nevadamademarijuana.com/charleston/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "07716430045859597948"
+ },
+ {
+  "name": "GREEN. (Rainbow)",
+  "type": "dispensary",
+  "address": "101 S Rainbow Blvd, Las Vegas, NV 89145",
+  "lat": 36.17206,
+  "lng": -115.244159,
+  "page": "summerlin",
+  "source_url": "https://greennv.com/locations/rainbow",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "67664169559680064201"
+ },
+ {
+  "name": "Beyond/Hello (Sahara)",
+  "type": "dispensary",
+  "address": "7885 W Sahara Ave, Las Vegas, NV 89117",
+  "lat": 36.143666,
+  "lng": -115.262826,
+  "page": "summerlin",
+  "source_url": "https://beyond-hello.com/nevada-dispensaries/las-vegas-sahara/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "56859471821919325427"
+ },
+ {
+  "name": "GREEN. (Hualapai)",
+  "type": "dispensary",
+  "address": "4510 S Hualapai Way, Las Vegas, NV 89147",
+  "lat": 36.107495,
+  "lng": -115.314963,
+  "page": "summerlin",
+  "source_url": "https://greennv.com/locations/hualapai",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "48573289589249273073"
+ },
+ {
+  "name": "Earl Grey Cafe at The Resort at Summerlin",
+  "type": "food",
+  "address": "221 North Rampart Blvd, Las Vegas, NV",
+  "lat": 36.175711,
+  "lng": -115.287195,
+  "page": "summerlin",
+  "source_url": "https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Distill (Summerlin)",
+  "type": "food",
+  "address": "10820 W. Charleston Boulevard, Las Vegas, NV 89135",
+  "lat": 36.15901,
+  "lng": -115.331092,
+  "page": "summerlin",
+  "source_url": "https://www.distillbar.com/locations",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census"
+ },
+ {
+  "name": "Thrive Cannabis Marketplace (West Sahara)",
+  "type": "dispensary",
+  "address": "3500 W Sahara Ave, Las Vegas, NV 89102",
+  "lat": 36.144533,
+  "lng": -115.188273,
+  "page": "west-valley",
+  "source_url": "https://thrivenevada.com/get-in-touch/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "77505483208802721121"
+ },
+ {
+  "name": "Silver Sage Wellness",
+  "type": "dispensary",
+  "address": "4626 W Charleston Blvd, Las Vegas, NV 89102",
+  "lat": 36.15918,
+  "lng": -115.203233,
+  "page": "west-valley",
+  "source_url": "https://www.sswlv.com/contact/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "48309202150183437033"
+ },
+ {
+  "name": "RISE (S Durango Dr)",
+  "type": "dispensary",
+  "address": "6410 S Durango Dr, Las Vegas, NV 89113",
+  "lat": 36.064408,
+  "lng": -115.279267,
+  "page": "west-valley",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "09271842370730937488"
+ },
+ {
+  "name": "Mint Cannabis (Rainbow)",
+  "type": "dispensary",
+  "address": "6332 S Rainbow Blvd, Las Vegas, NV 89118",
+  "lat": 36.07361,
+  "lng": -115.242496,
+  "page": "west-valley",
+  "source_url": "https://mintdeals.com/rainbow-lv/",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "47182081583508846760"
+ },
+ {
+  "name": "Zen Leaf (Fort Apache)",
+  "type": "dispensary",
+  "address": "5335 S Fort Apache Rd, Las Vegas, NV 89148",
+  "lat": 36.09189,
+  "lng": -115.297453,
+  "page": "west-valley",
+  "source_url": "https://zenleafdispensaries.com/locations/las-vegas",
+  "last_checked": "2026-11-12",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "10340862547948454764"
+ },
+ {
+  "name": "ShowGrow (Fort Apache)",
+  "type": "dispensary",
+  "address": "4850 S Fort Apache Rd, Las Vegas, NV 89147",
+  "lat": 36.100966,
+  "lng": -115.297192,
+  "page": "west-valley",
+  "source_url": "https://showgrow.com/dispensaries/las-vegas/fort-apache-dispensary/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "21647298952036123142"
+ },
+ {
+  "name": "SLV Dispensary (Boulder Hwy)",
+  "type": "dispensary",
+  "address": "4380 Boulder Highway, Las Vegas, NV 89121",
+  "lat": 36.12602,
+  "lng": -115.079677,
+  "page": "west-valley",
+  "source_url": "https://slvcannabis.com/",
+  "last_checked": "2026-11-12",
+  "also_on": [
+   "open-at-2am"
+  ],
+  "geocoder": "census",
+  "ccb_license": "67391843247886555156"
+ }
+]
