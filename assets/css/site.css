@@ -324,6 +324,14 @@ h1 {
 
 .site-footer p { margin: 0 0 8px; }
 
+.site-footer a.report {
+  color: var(--gold);
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  text-underline-offset: 3px;
+}
+
 @media (min-width: 720px) {
   .header-inner {
     flex-direction: row;
