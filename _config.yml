@@ -1,0 +1,21 @@
+title: Vegas Munchies Map
+description: Licensed Las Vegas dispensaries paired with late-night eats, checked against official sources
+url: "https://floater12.github.io"
+baseurl: "/vegas-munchies-map"
+theme: minima
+
+# Area pages in the header, in order. Add the next page's filename here.
+header_pages:
+  - south-point-area.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
