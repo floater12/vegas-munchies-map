@@ -7,6 +7,9 @@ theme: minima
 # Area pages in the header, in order. Add the next page's filename here.
 header_pages:
   - south-point-area.md
+  - strip-adjacent.md
+  - downtown-fremont.md
+  - late-night-deals-under-10.md
 
 plugins:
   - jekyll-feed
