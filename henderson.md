@@ -37,14 +37,14 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 <article class="listing">
   <h3>RISE</h3>
   <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
-  <p class="listing-hours">Hours not listed — the official RISE Henderson page fetched today did not return hours</p>
+  <p class="listing-hours">Daily 8:00 AM – 11:00 PM</p>
   <p class="listing-where">2.8 miles, about 6 minutes · 4300 E Sunset Rd</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Address / listing text:** 4300 E Sunset Rd, Suite A2-A3, Adult Use
   - **License:** 19873661470522818141
-  - **Hours, as published:** Hours not listed — the official RISE Henderson page fetched today did not return hours
+  - **Hours, as published:** Daily 8:00 AM – 11:00 PM, per [RISE's Henderson page](https://risecannabis.com/dispensaries/nevada/henderson/), which lists 4300 E Sunset Rd Suite A3, Henderson, NV 89014, phone (702) 978-7687
   - **Drive:** 2.8 miles, about 6 minutes
   - **Delivery (CCB):** Y
   - **Checked on 2026-11-12**
@@ -132,14 +132,14 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 <article class="listing">
   <h3>RISE</h3>
   <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
-  <p class="listing-hours">Hours not listed — the official RISE page fetched today did not return hours</p>
+  <p class="listing-hours">Daily 8:00 AM – 11:00 PM</p>
   <p class="listing-where">7.4 miles, about 10 minutes (1.4 miles, about 2 minutes from Wildfire Boulder) · 1000 S Boulder Hwy</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Address / listing text:** 1000 S Boulder Hwy, Adult Use
   - **License:** 43490264137335866974
-  - **Hours, as published:** Hours not listed — the official RISE page fetched today did not return hours
+  - **Hours, as published:** Daily 8:00 AM – 11:00 PM, per [RISE's Henderson Boulder page](https://risecannabis.com/dispensaries/nevada/henderson-boulder/), which lists 1000 S Boulder Hwy., Henderson, NV 89015, phone (702) 551-9805
   - **Drive:** 7.4 miles, about 10 minutes (1.4 miles, about 2 minutes from Wildfire Boulder)
   - **Delivery (CCB):** N
   - **Checked on 2026-11-12**
@@ -259,7 +259,6 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 
 ## Dropped (could not verify this day)
 
-- **Hours for the two RISE stores.** The official RISE pages returned no hours when fetched today, so none are listed.
 - **Green Valley Ranch (2300 Paseo Verde Pkwy).** The official Green Valley Ranch eat-and-drink page lists a steakhouse, a sushi restaurant, and bars, but no 24-hour cafe, no late-night hours, and no late-night prices. No Green Valley Ranch food listing.
 - **Wildfire Sunset, Wildfire Lake Mead, and The Greens Gaming & Dining.** Their official pages list dining hours of 6am–11pm, which does not fit the 11 PM–6 AM Late Night Savings window the program page applies to "all Wild Grill locations." Not listed as late-night food.
 - **Wildfire Anthem.** Its official page lists dining 10am–8pm. Not listed.
@@ -277,7 +276,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - [The Source locations](https://www.thesourcenv.com/locations/) — Water St. and Eastern hours, addresses, phones
 - [Green Dispensary Henderson](https://greennv.com/locations/henderson) — hours, address, phone
 - [Wallflower Henderson](https://wallflower-house.com/location/henderson/) and [Wallflower locations](https://wallflower-house.com/locations/) — hours, address, phone, delivery note
-- [RISE Henderson](https://www.risecannabis.com/dispensaries/nevada/henderson/) — fetched; no hours returned
+- [RISE Henderson](https://risecannabis.com/dispensaries/nevada/henderson/) and [RISE Henderson Boulder](https://risecannabis.com/dispensaries/nevada/henderson-boulder/) — hours, addresses, phones
 - [The Brass Fork at Sunset Station](https://sunsetstation.com/eat-and-drink/the-brass-fork/) — hours, address, phone, Late Night Savings list and terms
 - [Sunset Station eat and drink](https://sunsetstation.com/eat-and-drink/) and [Green Valley Ranch eat and drink](https://greenvalleyranch.com/eat-and-drink/) — restaurant lists
 - [Station Casinos property map](https://www.stationcasinos.com/property-map/) — Sunset Station and Green Valley Ranch addresses

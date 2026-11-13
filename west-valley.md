@@ -212,7 +212,7 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 <article class="listing">
   <h3>RISE</h3>
   <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
-  <p class="listing-hours">Hours not listed — the official RISE pages fetched today did not return hours</p>
+  <p class="listing-hours">Friday and Saturday 8:00 AM – 1:00 AM; Sunday – Thursday 8:00 AM – 11:00 PM</p>
   <p class="listing-where">0.2 miles, about 1 minute · 6410 S Durango Dr</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
@@ -220,7 +220,7 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   - **Area:** Durango
   - **Address / listing text:** 6410 S Durango Dr, Adult Use
   - **License:** 09271842370730937488
-  - **Hours, as published:** Hours not listed — the official RISE pages fetched today did not return hours
+  - **Hours, as published:** Friday and Saturday 8:00 AM – 1:00 AM; Sunday – Thursday 8:00 AM – 11:00 PM, per [RISE's South Durango page](https://risecannabis.com/dispensaries/nevada/south-durango/), which lists 6410 S Durango Dr Suite 115, Las Vegas, NV 89113, phone (775) 877-9367
   - **Drive:** 0.2 miles, about 1 minute
   - **Delivery (CCB):** Y
   - **Checked on 2026-11-12**
@@ -341,12 +341,11 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 
 ## Dropped (could not verify this day)
 
-- **Hours for RISE at 6410 S Durango Dr.** The official RISE pages returned no hours today.
 - **NWC West at 9030 W Flamingo Rd.** On the CCB list; its official page returned no readable hours today. The older Nevada Wellness Center at 3200 S Valley View Blvd is also still on the CCB list, but an unofficial report says it has moved to NWC West; no official page confirmed that, so neither is listed.
 - **Curaleaf at 2320 Western Ave**, next to Palace Station. On the CCB list, but no official hours were fetched (see the [Strip-adjacent page](strip-adjacent.md)).
 - **Jardin (2900 E Desert Inn Rd) and Nevada Made Marijuana (3915 E Charleston Blvd)**, the other close stores to Boulder Station. Their official pages did not return hours today.
 - **Late Night Savings prices at Wild Grill and Barley's.** Covered, with the hours conflicts, on the [Henderson page](henderson.md) and the [under-$10 deals page](late-night-deals-under-10.md).
-- **Santa Fe Station and Station's Seventy Six taverns.** North valley; no 2 AM or late-night dining page was fetched for them.
+- **Station's Seventy Six taverns.** No late-night dining page was fetched for them. Santa Fe Station's Brass Fork is on the [North Las Vegas / Northwest page](north-las-vegas-northwest.md).
 - **Any CCB-licensed consumption lounge near these properties.** None are on the list.
 - **Tribal or unlicensed shops.** Not on the CCB list, so not listed.
 - **Google Maps distances, traffic-adjusted times, and walking times.** Not used.
@@ -362,6 +361,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - [Zen Leaf Las Vegas](https://zenleafdispensaries.com/locations/las-vegas) — hours, address
 - [ShowGrow Fort Apache](https://showgrow.com/dispensaries/las-vegas/fort-apache-dispensary/) — hours, address, phone
 - [SLV Cannabis](https://slvcannabis.com/) — hours, address, phone, curbside hours
+- [RISE South Durango](https://risecannabis.com/dispensaries/nevada/south-durango/) — hours, address, phone
 - [CCB Laws & Regulations](https://ccb.nv.gov/laws-regulations/) and [NRS Chapter 678D](https://www.leg.state.nv.us/NRS/NRS-678D.html) — legal box
 - U.S. Census Bureau Geocoder, Public_AR_Current, run 2026-11-12, for the matched addresses listed above
 - OSRM driving router, run 2026-11-12, from each Station property to each matched coordinate, for the mile and minute figures in the table

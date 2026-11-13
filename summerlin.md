@@ -166,7 +166,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - **Du-Par's at Suncoast Hotel & Casino (9090 Alta Dr).** The official Boyd Gaming page for Du-Par's returned no readable content today, and Boyd's reopening press release says only that it is "open daily" for breakfast, lunch, and dinner. No 24-hour claim could be confirmed, so it is not listed.
 - **Earl Grey Cafe late-night menu prices.** Linked on the official page, but not readable in the text fetched today.
 - **Distill menu prices.** Not fetched.
-- **Cultivate at 7105 N Durango Dr and Jade Cannabis at 6050 Sky Pointe.** On the CCB list and farther north; official hours pages were not fetched today.
+- **Cultivate at 7105 N Durango Dr and Jade Cannabis at 6050 Sky Pointe.** On the CCB list and farther north; both are on the [North Las Vegas / Northwest page](north-las-vegas-northwest.md).
 - **NWC West at 9030 W Flamingo Rd.** On the CCB list; its official page returned no readable hours today.
 - **Any CCB-licensed consumption lounge in this area.** None are on the list.
 - **Tribal or unlicensed shops.** Not on the CCB list, so not listed.
