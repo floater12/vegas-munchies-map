@@ -151,10 +151,10 @@ The official page does not name the six entrees or give line-item prices, a midn
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
-  - **Address / listing text:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger
-  - **Hours, as published:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger
+  - **Address / listing text:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints all five Late Night Savings items, including the $5.99 cheeseburger available 24/7, and the terms (re-checked 2026-11-13)
+  - **Hours, as published:** Official restaurant page: open 24 hours / 7 days a week, phone 702.432.7777. Property address from the Station Casinos property map: 4111 Boulder Highway, Las Vegas, NV 89121. The Game On page reprints all five Late Night Savings items, including the $5.99 cheeseburger available 24/7, and the terms (re-checked 2026-11-13)
   - **Source:** [Game On](https://boulderstation.com/eat-and-drink/game-on/), [Station property map](https://www.stationcasinos.com/property-map/)
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-13**
   
   </details>
 </article>
@@ -168,10 +168,10 @@ The official page does not name the six entrees or give line-item prices, a midn
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
-  - **Address / listing text:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855
-  - **Hours, as published:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints the 11 PM–6 AM Late Night Savings items and terms; it does not list the $5.99 cheeseburger. Phone on The George page: 702.567.7855
+  - **Address / listing text:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints all five Late Night Savings items, including the $5.99 cheeseburger available 24/7, and the terms (re-checked 2026-11-13). Phone on The George page: 702.567.7855
+  - **Hours, as published:** Official restaurant page: open 24/7, with late-night service listed as 11 PM–7 AM. Property address from the Station property map: 6915 S. Durango Dr., Las Vegas, NV 89148. The George page reprints all five Late Night Savings items, including the $5.99 cheeseburger available 24/7, and the terms (re-checked 2026-11-13). Phone on The George page: 702.567.7855
   - **Source:** [The George](https://durangoresort.com/eat-and-drink/the-george/), [Station property map](https://www.stationcasinos.com/property-map/)
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-13**
   
   </details>
 </article>
@@ -252,7 +252,7 @@ Official program page: [Late Night Savings](https://stationcasinos.com/sc-dining
 
 **Terms, as published on that page and on the restaurant pages:** "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights." Checked on 2026-11-12.
 
-The Station program page names these venues: Lucky Penny, Brass Fork, Game On, The George, Wild Grill, and Barley's. Game On's and The George's own pages fetched today list the 11 PM–6 AM items but omit the 24/7 cheeseburger line; this page still uses the program-wide Station list for all named venues.
+The Station program page names these venues: Lucky Penny, Brass Fork, Game On, The George, Wild Grill, and Barley's. Game On's and The George's own pages, re-checked 2026-11-13, now list all five items, including the 24/7 cheeseburger.
 
 The official page does not say whether a Boarding Pass or other card is required, and it does not say whether tax or gratuity is included. The special is listed as starting at 10 PM; this page does not invent an end time beyond the restaurant hours above.
 

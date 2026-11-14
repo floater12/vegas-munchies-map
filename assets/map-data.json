@@ -436,10 +436,11 @@
   "lng": -115.08535,
   "page": "late-night-deals-under-10",
   "source_url": "https://boulderstation.com/eat-and-drink/game-on/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-13",
   "also_on": [
    "west-valley",
-   "open-at-2am"
+   "open-at-2am",
+   "east-las-vegas-boulder-highway"
   ],
   "geocoder": "census"
  },
@@ -451,7 +452,7 @@
   "lng": -115.279406,
   "page": "late-night-deals-under-10",
   "source_url": "https://durangoresort.com/eat-and-drink/the-george/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-13",
   "also_on": [
    "west-valley",
    "open-at-2am"
@@ -737,10 +738,11 @@
   "lat": 36.12602,
   "lng": -115.079677,
   "page": "west-valley",
-  "source_url": "https://slvcannabis.com/",
-  "last_checked": "2026-11-12",
+  "source_url": "https://slvcannabis.com/contact/",
+  "last_checked": "2026-11-13",
   "also_on": [
-   "open-at-2am"
+   "open-at-2am",
+   "east-las-vegas-boulder-highway"
   ],
   "geocoder": "census",
   "ccb_license": "67391843247886555156"
@@ -936,5 +938,69 @@
   "also_on": [],
   "geocoder": "census",
   "ccb_license": "44593280192084310982"
+ },
+ {
+  "name": "Denny's and PT's Express at Arizona Charlie's Boulder",
+  "type": "food",
+  "address": "4575 Boulder Highway, Las Vegas, NV 89121",
+  "lat": 36.122068,
+  "lng": -115.074507,
+  "page": "east-las-vegas-boulder-highway",
+  "source_url": "https://arizonacharliesboulder.com/restaurants",
+  "last_checked": "2026-11-13",
+  "also_on": [],
+  "geocoder": "census"
+ },
+ {
+  "name": "Jardín",
+  "type": "dispensary",
+  "address": "2900 E Desert Inn Rd, Las Vegas, NV 89121",
+  "lat": 36.129836,
+  "lng": -115.110859,
+  "page": "east-las-vegas-boulder-highway",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-13",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "15398675340409721326"
+ },
+ {
+  "name": "Nevada Made Marijuana (East Las Vegas)",
+  "type": "dispensary",
+  "address": "3915 E Charleston Blvd, Las Vegas, NV 89104",
+  "lat": 36.158721,
+  "lng": -115.089354,
+  "page": "east-las-vegas-boulder-highway",
+  "source_url": "https://ccb.nv.gov/list-of-licensees/",
+  "last_checked": "2026-11-13",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "75203668337906025844"
+ },
+ {
+  "name": "Top Notch The Health Center (Top Notch THC)",
+  "type": "dispensary",
+  "address": "5630 Stephanie St, Las Vegas, NV 89122",
+  "lat": 36.087333,
+  "lng": -115.045957,
+  "page": "east-las-vegas-boulder-highway",
+  "source_url": "https://topnotchthc.com/contact/",
+  "last_checked": "2026-11-13",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "76816813303097791333"
+ },
+ {
+  "name": "RISE (Las Vegas on Nellis)",
+  "type": "dispensary",
+  "address": "871 N Nellis Blvd, Las Vegas, NV 89110",
+  "lat": 36.180384,
+  "lng": -115.062314,
+  "page": "east-las-vegas-boulder-highway",
+  "source_url": "https://risecannabis.com/dispensaries/nevada/nellis/",
+  "last_checked": "2026-11-13",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "48202177934598005793"
  }
 ]

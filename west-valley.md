@@ -18,13 +18,13 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 **Late Night Savings, as published on the official Station Casinos restaurant pages fetched 2026-11-12:**
 
 <article class="listing">
-  <h3>Cheeseburger Special, available 24/7 (listed on the Lucky Penny and Brass Fork pages; not listed on the Game On or The George pages)</h3>
+  <h3>Cheeseburger Special, available 24/7 (listed on the Lucky Penny and Brass Fork pages, and on the Game On and The George pages as re-checked 2026-11-13)</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-deal">$5.99</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
-  Cheeseburger Special $5.99, available 24/7 (listed on the Lucky Penny and Brass Fork pages; not listed on the Game On or The George pages)
+  Cheeseburger Special $5.99, available 24/7 (listed on the Lucky Penny and Brass Fork pages, and on the Game On and The George pages as re-checked 2026-11-13)
   
   </details>
 </article>
@@ -129,7 +129,7 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   <h3>The George</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-hours">Open 24/7; Monday–Friday and Saturday–Sunday late night listed as 11 PM–7 AM</p>
-  <p class="listing-deal">Late Night Savings, above (the pancakes, Deuces Wild, steak and eggs, and biscuits and gravy items; the page does not list the cheeseburger)</p>
+  <p class="listing-deal">Late Night Savings, above (all five items, including the $5.99 cheeseburger available 24/7, are listed on The George page re-checked 2026-11-13)</p>
   <p class="listing-where">6915 S. Durango Dr., Las Vegas, NV 89148, from the Station Casinos property map</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
@@ -137,10 +137,10 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   - **Address:** 6915 S. Durango Dr., Las Vegas, NV 89148, from the Station Casinos property map
   - **Hours, as published:** Open 24/7; Monday–Friday and Saturday–Sunday late night listed as 11 PM–7 AM
   - **Phone published on the same page:** 702.567.7855
-  - **Late-night deal:** Late Night Savings, above (the pancakes, Deuces Wild, steak and eggs, and biscuits and gravy items; the page does not list the cheeseburger)
-  - **Checked on 2026-11-12**
+  - **Late-night deal:** Late Night Savings, above (all five items, including the $5.99 cheeseburger available 24/7, are listed on The George page re-checked 2026-11-13)
+  - **Checked on 2026-11-13**
   
-  **Sources:** [The George official page](https://durangoresort.com/eat-and-drink/the-george/) and the [Station Casinos property map](https://www.stationcasinos.com/property-map/), both fetched 2026-11-12.
+  **Sources:** [The George official page](https://durangoresort.com/eat-and-drink/the-george/) (re-checked 2026-11-13) and the [Station Casinos property map](https://www.stationcasinos.com/property-map/) (fetched 2026-11-12).
   
   </details>
 </article>
@@ -151,7 +151,7 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   <h3>Game On</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-hours">Open 24 Hours / 7 Days a Week</p>
-  <p class="listing-deal">Late Night Savings, above (the page does not list the cheeseburger)</p>
+  <p class="listing-deal">Late Night Savings, above (all five items, including the $5.99 cheeseburger available 24/7, are listed on the Game On page re-checked 2026-11-13)</p>
   <p class="listing-where">4111 Boulder Highway, Las Vegas, NV 89121, from the Station Casinos property map</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
@@ -159,10 +159,10 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   - **Address:** 4111 Boulder Highway, Las Vegas, NV 89121, from the Station Casinos property map
   - **Hours, as published:** Open 24 Hours / 7 Days a Week
   - **Phone published on the same page:** 702.432.7777
-  - **Late-night deal:** Late Night Savings, above (the page does not list the cheeseburger)
-  - **Checked on 2026-11-12**
+  - **Late-night deal:** Late Night Savings, above (all five items, including the $5.99 cheeseburger available 24/7, are listed on the Game On page re-checked 2026-11-13)
+  - **Checked on 2026-11-13**
   
-  **Sources:** [Game On official page](https://boulderstation.com/eat-and-drink/game-on/) and the [Station Casinos property map](https://www.stationcasinos.com/property-map/), both fetched 2026-11-12.
+  **Sources:** [Game On official page](https://boulderstation.com/eat-and-drink/game-on/) (re-checked 2026-11-13) and the [Station Casinos property map](https://www.stationcasinos.com/property-map/) (fetched 2026-11-12).
   
   </details>
 </article>

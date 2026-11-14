@@ -355,7 +355,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - **Wildfire Rancho (1901 N Rancho Dr).** Its official page lists Dining 6am – 11pm, while its Wild Grill text says "round-the-clock dining." The page conflicts with itself, so it is not listed as late-night food.
 - **Aliante's food court, MRKT, The Salted Lime, and Trattoria 57.** No late-night hours were published on the pages fetched today.
 - **Tree of Life Dispensary LV at 1437 N Jones Blvd.** On the CCB list, but the official Tree of Life site fetched today shows only the North Las Vegas store. Not listed.
-- **RISE at 871 N Nellis Blvd.** On the CCB list, but on the east side, outside this page's area.
+- **RISE at 871 N Nellis Blvd.** On the CCB list, but on the east side, outside this page's area. It is on the [East Las Vegas / Boulder Highway page](east-las-vegas-boulder-highway.md).
 - **Any CCB-licensed consumption lounge in this area.** None are on the list.
 - **Tribal or unlicensed shops.** Not on the CCB list, so not listed.
 - **Google Maps distances, traffic-adjusted times, and walking times.** Not used.
