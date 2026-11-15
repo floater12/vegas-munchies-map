@@ -21,6 +21,7 @@ This is a same-day-sourced directory of two things that are often asked about to
 - [Summerlin](summerlin.md)
 - [North Las Vegas / Northwest pairing](north-las-vegas-northwest.md)
 - [East Las Vegas / Boulder Highway pairing](east-las-vegas-boulder-highway.md)
+- [Near UNLV / Maryland Parkway pairing](near-unlv-maryland-parkway.md)
 
 <p class="disclosure">No affiliate links on this page. No Google Ads or Amazon on cannabis content.</p>
 

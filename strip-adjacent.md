@@ -25,10 +25,10 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   
   - **Address / listing text:** 4503 Paradise Rd, Adult Use
   - **License:** 04045523128584413069
-  - **Hours, as published:** Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556
+  - **Hours, as published:** Monday–Sunday, open 24 hours, per Mint's Paradise page. That page lists 4503 Paradise Rd., Las Vegas, NV 89169, phone 702-389-8556 (re-checked 2026-11-14)
   - **Drive:** 1.5 miles, about 4 minutes
   - **Delivery (CCB):** Y
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-14**
   - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
   
   </details>
@@ -44,10 +44,10 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   
   - **Address / listing text:** 4640 Paradise Rd Ste 8-9, Adult Use
   - **License:** 99035327095322531446
-  - **Hours, as published:** Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary
+  - **Hours, as published:** Daily, 3 PM–11 PM, per Society Elevated Lounge's official page. That page lists 4640 Paradise Rd, Las Vegas, NV 89169, phone 702-463-5777. On-site consumption only; 21+ with valid ID; cash only, with ATMs in the attached dispensary (re-checked 2026-11-14)
   - **Drive:** 1.7 miles, about 4 minutes
   - **Delivery (CCB):** N
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-14**
   - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
   
   </details>
@@ -151,17 +151,17 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 <article class="listing">
   <h3>Beyond/Hello</h3>
   <p class="listing-type"><span class="badge badge-dispensary">Dispensary</span> <span class="licensed">Licensed ✓</span></p>
-  <p class="listing-hours">Hours not listed — no official hours page was fetched today</p>
+  <p class="listing-hours">"Open 24 Hours" on every day of the week</p>
   <p class="listing-where">2.5 miles, about 6 minutes · 430 E Twain Ave</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Address / listing text:** 430 E Twain Ave, Adult Use
   - **License:** 54588636135598286871
-  - **Hours, as published:** Hours not listed — no official hours page was fetched today
+  - **Hours, as published:** "Open 24 Hours" on every day of the week, per Beyond/Hello's Las Vegas Twain page (re-checked 2026-11-14). That page lists 430 E Twain Ave, Las Vegas, NV 89169, phone (702) 297-5323
   - **Drive:** 2.5 miles, about 6 minutes
   - **Delivery (CCB):** Y
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-14**
   - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
   
   </details>
@@ -215,10 +215,10 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   
   - **Address / listing text:** 2244 Paradise Rd, Adult Use
   - **License:** 54283805068313943868
-  - **Hours, as published:** Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400
+  - **Hours, as published:** Everyday, 8:00 AM–12:00 AM; closed Thanksgiving and Christmas Day, per Greenlight's Paradise page. That page lists 2244 Paradise Rd, Las Vegas, NV 89104, phone (702) 209-2400 (re-checked 2026-11-14)
   - **Drive:** 4.2 miles, about 8 minutes
   - **Delivery (CCB):** Y
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-14**
   - On the [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/).
   
   </details>
@@ -335,8 +335,8 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - **Hours and drive time for Curaleaf at 2320 Western Ave** (CCB license 11058209030610809158, 3.5 miles / about 7 minutes from mid-Strip by Census + OSRM). The official Curaleaf page was age-gated and did not return hours. The store is on the CCB list but is left out of the table above because this page prioritizes shops with official hours, except for a few close addresses noted in the table.
 - **Curaleaf at 3400 Western Ave** (CCB license 56426800972005264608). On the CCB list, but the Census Geocoder returned no match for that address today, and no official hours page was successfully fetched. No listing.
 - **Drive time for Thrive / SMOKE AND MIRRORS at 2975 Sammy Davis Jr Dr.** Census did not match that street name. A speculative substitute of "2975 Industrial Rd" was not used, because the rename was not confirmed from an official source fetched today.
-- **The Grove at 4647 University Center Dr.** On the CCB list and described on SOCIETY's page as connected to the lounge, but Census queries for "University Center Dr" snapped to "4647 W UNIVERSITY AVE, LAS VEGAS, NV, 89103," a different street on the west side of the valley. Because the match is unreliable, no Grove drive time is listed, and the store is not in the table.
-- **Hours for SMOKE AND MIRRORS and for Beyond/Hello at 430 E Twain Ave.** Official hours pages were not fetched today.
+- **The Grove at 4647 University Center Dr.** On the CCB list and described on SOCIETY's page as connected to the lounge, but Census queries for "University Center Dr" snapped to "4647 W UNIVERSITY AVE, LAS VEGAS, NV, 89103," a different street on the west side of the valley. Because the match is unreliable, no Grove drive time is listed, and the store is not in the table. The Grove's official hours ("Open 24 Hours Daily," checked 2026-11-14) are on the [Near UNLV / Maryland Parkway page](near-unlv-maryland-parkway.md).
+- **Hours for SMOKE AND MIRRORS.** No official lounge hours page was fetched.
 - **Conflicting PUB 365 hours on pub365lv.com**, which disagree with Tuscany's official restaurant page. The Tuscany page was used.
 - **Peppermill entrée prices**, including any figure from a May 2024 menu PDF. The current homepage does not publish entrée prices.
 - **El Cortez, Binion's, and other downtown or mid-Strip menus** that could only be found as 2018 or undated PDFs. Held off this page; downtown leftovers are on the Downtown / Fremont page.
@@ -348,14 +348,15 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) — fetched 2026-11-12; marked "Current as of 10/02/2026"; names, addresses, license numbers, adult-use status, delivery flags; confirmation that tribal establishments are omitted; confirmation that no listed store or lounge has a Las Vegas Boulevard Strip-casino address
 - [NRS Chapter 678B](https://www.leg.state.nv.us/NRS/NRS-678B.html) — NRS 678B.250 (1,500-foot nonrestricted-gaming setback and how it is measured); NRS 678B.322 (lounge attached to an already-compliant store is not subject to that setback, but may not be on airport property)
 - [CCB Laws & Regulations](https://ccb.nv.gov/laws-regulations/) and [NRS Chapter 678D](https://www.leg.state.nv.us/NRS/NRS-678D.html) — legal box
-- [Mint Paradise](https://mintdeals.com/paradise-lv/) — 24-hour hours, address, phone
-- [Society Elevated Lounge](https://www.thegrovenv.com/society-elevated-lounge/) — daily 3 PM–11 PM hours, address, phone, on-site consumption and cash-only notes
+- [Mint Paradise](https://mintdeals.com/paradise-lv/) — 24-hour hours, address, phone (re-checked 2026-11-14)
+- [Society Elevated Lounge](https://www.thegrovenv.com/society-elevated-lounge/) — daily 3 PM–11 PM hours, address, phone, on-site consumption and cash-only notes (re-checked 2026-11-14)
 - [Cookies Flamingo](https://cookiesdispensary.com/nevada/weed-dispensary-near-paradise/) — 8 AM–2 AM hours, address, phone, current no-delivery statement
 - [Planet 13 Visit](https://planet13.com/visit) — 24/7 store hours, address, drive-thru window, shuttle, delivery limits, DAZED! hours, By The Slice hours
 - [Visit The Spot](https://visitthespot.com/) and [About The Spot](https://visitthespot.com/about-us/) — 24/7 and 24-hour drive-thru; 4310 W. Flamingo address
 - [Cultivate Spring Mountain](https://cultivatelv.com/location/spring-mountain/) — 8:00 AM–3:00 AM hours, address, phone
 - [Thrive Get in Touch](https://thrivenevada.com/get-in-touch/) — 24/7 hours, Sammy Davis Jr Drive address and phone
-- [Greenlight Paradise](https://greenlightdispensary.com/locations/paradise/) — 8:00 AM–12:00 AM hours, holiday closures, address, phone
+- [Greenlight Paradise](https://greenlightdispensary.com/locations/paradise/) — 8:00 AM–12:00 AM hours, holiday closures, address, phone (re-checked 2026-11-14)
+- [Beyond/Hello Las Vegas Twain](https://www.beyond-hello.com/nevada-dispensaries/las-vegas-nv-twain/) — 24-hour hours, address, phone (fetched 2026-11-14)
 - [PUB 365 at Tuscany](https://www.tuscanylv.com/restaurant/pub-365-craft-beers/) — address, hours, $8.99 steak-and-eggs special starting at 10 PM, phone
 - [pub365lv.com](http://pub365lv.com/) — fetched only to compare hours; conflicting hours were dropped
 - [Peppermill homepage](https://www.peppermilllasvegas.com/) — address, hours, phone; no current entrée prices

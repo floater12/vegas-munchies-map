@@ -121,9 +121,10 @@
   "lng": -115.152068,
   "page": "strip-adjacent",
   "source_url": "https://mintdeals.com/paradise-lv/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-14",
   "also_on": [
-   "open-at-2am"
+   "open-at-2am",
+   "near-unlv-maryland-parkway"
   ],
   "geocoder": "census",
   "ccb_license": "04045523128584413069"
@@ -136,8 +137,10 @@
   "lng": -115.151244,
   "page": "strip-adjacent",
   "source_url": "https://www.thegrovenv.com/society-elevated-lounge/",
-  "last_checked": "2026-11-12",
-  "also_on": [],
+  "last_checked": "2026-11-14",
+  "also_on": [
+   "near-unlv-maryland-parkway"
+  ],
   "geocoder": "census",
   "ccb_license": "99035327095322531446"
  },
@@ -223,9 +226,11 @@
   "lat": 36.121306,
   "lng": -115.153763,
   "page": "strip-adjacent",
-  "source_url": "https://ccb.nv.gov/list-of-licensees/",
-  "last_checked": "2026-11-12",
-  "also_on": [],
+  "source_url": "https://www.beyond-hello.com/nevada-dispensaries/las-vegas-nv-twain/",
+  "last_checked": "2026-11-14",
+  "also_on": [
+   "near-unlv-maryland-parkway"
+  ],
   "geocoder": "census",
   "ccb_license": "54588636135598286871"
  },
@@ -237,7 +242,7 @@
   "lng": -115.154668,
   "page": "strip-adjacent",
   "source_url": "https://greenlightdispensary.com/locations/paradise/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-14",
   "also_on": [
    "downtown-fremont"
   ],
@@ -252,11 +257,12 @@
   "lng": -115.161296,
   "page": "strip-adjacent",
   "source_url": "https://www.tuscanylv.com/restaurant/pub-365-craft-beers/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-14",
   "also_on": [
    "downtown-fremont",
    "late-night-deals-under-10",
-   "open-at-2am"
+   "open-at-2am",
+   "near-unlv-maryland-parkway"
   ],
   "geocoder": "census"
  },
@@ -1002,5 +1008,55 @@
   "also_on": [],
   "geocoder": "census",
   "ccb_license": "48202177934598005793"
+ },
+ {
+  "name": "Pizza Forte at Virgin Hotels Las Vegas",
+  "type": "food",
+  "address": "4455 Paradise Road, Las Vegas, NV 89169",
+  "lat": 36.108779,
+  "lng": -115.152349,
+  "page": "near-unlv-maryland-parkway",
+  "source_url": "https://virginhotelslv.com/dine-and-drink/pizza-forte/",
+  "last_checked": "2026-11-14",
+  "also_on": [],
+  "geocoder": "census"
+ },
+ {
+  "name": "The Village Pub & Café at Ellis Island",
+  "type": "food",
+  "address": "4178 Koval Lane, Las Vegas, NV 89109",
+  "lat": 36.113276,
+  "lng": -115.163916,
+  "page": "near-unlv-maryland-parkway",
+  "source_url": "https://www.ellisislandcasino.com/the-village-pub",
+  "last_checked": "2026-11-14",
+  "also_on": [],
+  "geocoder": "census"
+ },
+ {
+  "name": "Pisos",
+  "type": "dispensary",
+  "address": "4110 S Maryland Pkwy, Las Vegas, NV 89119",
+  "lat": 36.114295,
+  "lng": -115.137772,
+  "page": "near-unlv-maryland-parkway",
+  "source_url": "https://www.pisoslv.com/faq",
+  "last_checked": "2026-11-14",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "43766627397168972639"
+ },
+ {
+  "name": "Inyo Fine Cannabis Dispensary",
+  "type": "dispensary",
+  "address": "2520 S Maryland Pkwy, Las Vegas, NV 89109",
+  "lat": 36.143747,
+  "lng": -115.136869,
+  "page": "near-unlv-maryland-parkway",
+  "source_url": "https://inyolasvegas.com/",
+  "last_checked": "2026-11-14",
+  "also_on": [],
+  "geocoder": "census",
+  "ccb_license": "24344359150856320396"
  }
 ]
