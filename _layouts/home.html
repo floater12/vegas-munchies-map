@@ -4,12 +4,24 @@ layout: default
 <section class="hero">
   <div class="wrap">
     <p class="kicker">Las Vegas · 21+</p>
-    <h1>Las Vegas munchies map</h1>
-    <p class="tagline">Licensed Las Vegas dispensaries paired with late-night eats, checked against official sources.</p>
+    <h1>Licensed shops + late-night eats.</h1>
+    <a class="cta" href="{{ '/map.html' | relative_url }}">Find food + a shop near me</a>
     <p class="rule">Adults 21+. No smoking in public, casinos, or cars. Not legal advice.</p>
   </div>
 </section>
-<nav class="wrap cards" aria-label="Published pages">
+<div class="wrap filters">
+  <nav class="chip-row" aria-label="Quick filters">
+    <a class="chip" href="{{ '/open-at-2am.html' | relative_url }}">Open at 2 AM</a>
+    <a class="chip" href="{{ '/late-night-deals-under-10.html' | relative_url }}">Under $10</a>
+    <a class="chip" href="{{ '/strip-adjacent.html' | relative_url }}">Near the Strip</a>
+    <a class="chip" href="{{ '/strip-adjacent.html' | relative_url }}#licensed-dispensaries-and-lounges-near-mid-strip">Has a lounge</a>
+    <a class="chip" href="{{ '/open-at-2am.html' | relative_url }}#late-night-food-open-24-hours">24 hours</a>
+  </nav>
+</div>
+<div class="wrap">
+  <p class="section-label">By area</p>
+</div>
+<nav class="wrap cards" aria-label="Area pages">
   <a class="card card-pink" href="{{ '/south-point-area.html' | relative_url }}">
     <p class="kicker">Far south</p>
     <h2>South Point</h2>
@@ -24,16 +36,6 @@ layout: default
     <p class="kicker">Fremont</p>
     <h2>Downtown / Fremont</h2>
     <p>The closest CCB-licensed dispensaries to downtown Las Vegas and the Fremont Street Experience, with a plain note that no current official late-night food prices were found on Fremont itself today.</p>
-  </a>
-  <a class="card card-pink" href="{{ '/late-night-deals-under-10.html' | relative_url }}">
-    <p class="kicker">Food</p>
-    <h2>Late-night deals under $10</h2>
-    <p>A cross-valley list of officially priced late-night plates under $10, including South Point's Coronado Cafe graveyard range, Station Casinos and Wildfire Late Night Savings, and PUB 365's late-night steak and eggs.</p>
-  </a>
-  <a class="card card-gold" href="{{ '/map.html' | relative_url }}">
-    <p class="kicker">Map</p>
-    <h2>Map</h2>
-    <p>Every dispensary, lounge, and late-night food spot from these pages, with the address, source, and the date it was checked.</p>
   </a>
   <a class="card card-green" href="{{ '/henderson.html' | relative_url }}">
     <p class="kicker">Henderson</p>
@@ -64,11 +66,6 @@ layout: default
     <p class="kicker">Maryland Parkway</p>
     <h2>Near UNLV</h2>
     <p>CCB-licensed dispensaries and the one licensed consumption lounge closest to UNLV, along Maryland Parkway and Paradise Road, paired with three official late-night kitchens a few minutes west of campus: Pizza Forte at Virgin Hotels Las Vegas (24/7), The Village Pub &amp; Café at Ellis Island (24/7), and PUB 365 at Tuscany (open until 2 AM or 3 AM).</p>
-  </a>
-  <a class="card card-green" href="{{ '/open-at-2am.html' | relative_url }}">
-    <p class="kicker">After midnight</p>
-    <h2>Open at 2 AM</h2>
-    <p>Every late-night food spot and CCB-licensed dispensary on this directory whose official hours say it is open 24 hours or past 2 AM, grouped by area.</p>
   </a>
 </nav>
 <div class="wrap">

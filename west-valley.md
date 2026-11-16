@@ -3,6 +3,7 @@ layout: area
 title: "West Valley / Station Casinos pairing"
 description: "Station Casinos' 24-hour late-night cafes at Red Rock, Palace Station, Durango, and Boulder Station, paired with CCB-licensed dispensaries near each property. Last verified 2026-11-12."
 nav_title: "West Valley"
+kicker: "Station Casinos"
 ---
 
 # West Valley / Station Casinos pairing

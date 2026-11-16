@@ -3,6 +3,7 @@ layout: area
 title: "Downtown / Fremont pairing"
 description: "The closest CCB-licensed dispensaries to downtown Las Vegas and the Fremont Street Experience. No current official late-night food prices were found on Fremont itself on 2026-11-12."
 nav_title: "Downtown"
+kicker: "Fremont"
 ---
 
 # Downtown / Fremont pairing

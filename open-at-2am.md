@@ -3,6 +3,7 @@ layout: area
 title: "Open at 2 AM"
 description: "Every late-night food spot and CCB-licensed dispensary on this directory whose official hours say it is open 24 hours or past 2 AM, grouped by area. Last verified 2026-11-12."
 nav_title: "Open at 2 AM"
+header_role: topic
 ---
 
 # Open at 2 AM

@@ -3,6 +3,7 @@ layout: area
 title: "[Page title]"
 description: "[one line area or topic]"
 nav_title: "[Short name]"
+kicker: "[Short place line under the name in Areas]"
 ---
 
 # [Page title]

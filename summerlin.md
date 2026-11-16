@@ -3,6 +3,7 @@ layout: area
 title: "Summerlin pairing"
 description: "CCB-licensed dispensaries on the west side of the valley that describe themselves as serving Summerlin, paired with two official 24-hour spots near Summerlin: Earl Grey Cafe at The Resort at Summerlin and Distill on W Charleston. Last verified 2026-11-12."
 nav_title: "Summerlin"
+kicker: "West side"
 ---
 
 # Summerlin pairing

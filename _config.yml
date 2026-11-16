@@ -4,7 +4,9 @@ url: "https://floater12.github.io"
 baseurl: "/vegas-munchies-map"
 theme: null
 
-# Area pages in the header, in order. Add the next page's filename here.
+# Header order. map.md is the Map button. Pages with header_role: topic
+# stay out of the Areas menu (home-page chips link to them). Every other
+# page here is an area link, labeled with its nav_title. Add the next area filename here.
 header_pages:
   - map.md
   - south-point-area.md

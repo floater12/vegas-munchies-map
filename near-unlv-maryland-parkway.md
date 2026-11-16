@@ -3,6 +3,7 @@ layout: area
 title: "Near UNLV / Maryland Parkway pairing"
 description: "CCB-licensed dispensaries and the one licensed consumption lounge closest to UNLV, along Maryland Parkway and Paradise Road, paired with three official late-night kitchens a few minutes west of campus: Pizza Forte at Virgin Hotels Las Vegas (24/7), The Village Pub & Café at Ellis Island (24/7), and PUB 365 at Tuscany (open until 2 AM or 3 AM). Last verified 2026-11-14."
 nav_title: "Near UNLV"
+kicker: "Maryland Parkway"
 ---
 
 # Near UNLV / Maryland Parkway pairing

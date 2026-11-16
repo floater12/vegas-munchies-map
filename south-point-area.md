@@ -3,6 +3,7 @@ layout: area
 title: South Point / far south Las Vegas pairing
 description: "Licensed dispensaries near South Point Hotel, Casino & Spa, paired with the official late-night graveyard specials at Coronado Cafe. Last verified 2026-11-12. First verified 2026-11-11."
 nav_title: "South Point"
+kicker: "Far south"
 ---
 
 # South Point / far south Las Vegas pairing

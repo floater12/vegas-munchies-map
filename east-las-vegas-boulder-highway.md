@@ -3,6 +3,7 @@ layout: area
 title: "East Las Vegas / Boulder Highway pairing"
 description: "CCB-licensed dispensaries on the east side of Las Vegas (Boulder Highway, East Desert Inn, East Charleston, North Nellis, and Stephanie Street), paired with the two official 24-hour casino kitchens found on Boulder Highway today: Game On at Boulder Station, and Denny's and PT's Express at Arizona Charlie's Boulder. Last verified 2026-11-13."
 nav_title: "East Las Vegas"
+kicker: "East side / Boulder Highway"
 ---
 
 # East Las Vegas / Boulder Highway pairing

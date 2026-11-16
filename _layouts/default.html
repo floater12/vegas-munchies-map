@@ -16,16 +16,43 @@
     <header class="site-header">
       <div class="wrap header-inner">
         <a class="brand" href="{{ '/' | relative_url }}">Vegas Munchies Map</a>
-        <nav class="nav" aria-label="Area pages">
-          {% for path in site.header_pages %}
-            {% assign item = site.pages | where: "path", path | first %}
-            {% if item %}
-              <a href="{{ item.url | relative_url }}"{% if item.url == page.url %} aria-current="page"{% endif %}>{{ item.nav_title | default: item.title }}</a>
-            {% endif %}
-          {% endfor %}
-        </nav>
+        <div class="header-actions">
+          <a class="header-btn header-btn-map" href="{{ '/map.html' | relative_url }}"{% if page.layout == "map" %} aria-current="page"{% endif %}>Map</a>
+          <button class="header-btn header-btn-areas" type="button" id="areas-btn" aria-expanded="false" aria-controls="areas-sheet" aria-haspopup="dialog">Areas</button>
+        </div>
       </div>
     </header>
+    <div class="sheet-overlay" id="areas-overlay" hidden></div>
+    <div class="sheet" id="areas-sheet" role="dialog" aria-labelledby="areas-title" aria-hidden="true" inert>
+      <div class="sheet-handle" aria-hidden="true"></div>
+      <div class="sheet-head">
+        <h2 id="areas-title">Areas</h2>
+        <button class="sheet-close" type="button" id="areas-close" aria-label="Close areas">&times;</button>
+      </div>
+      <ul class="sheet-list">
+        {% for path in site.header_pages %}
+          {% assign item = site.pages | where: "path", path | first %}
+          {% if item and item.layout == "area" and item.header_role != "topic" %}
+            <li>
+              <a class="sheet-item" href="{{ item.url | relative_url }}"{% if item.url == page.url %} aria-current="page"{% endif %}>
+                <strong>{{ item.nav_title | default: item.title }}</strong>
+                {% if item.kicker %}<span>{{ item.kicker }}</span>{% endif %}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <noscript>
+      <nav class="wrap noscript-areas" aria-label="Area pages">
+        {% for path in site.header_pages %}
+          {% assign item = site.pages | where: "path", path | first %}
+          {% if item and item.layout == "area" and item.header_role != "topic" %}
+            <a href="{{ item.url | relative_url }}">{{ item.nav_title | default: item.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+    </noscript>
     <main id="content">
       {{ content }}
     </main>
@@ -37,5 +64,89 @@
       </div>
     </footer>
     <script data-goatcounter="https://vegasmunchiesmap.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script>
+      (function () {
+        var btn = document.getElementById("areas-btn");
+        var sheet = document.getElementById("areas-sheet");
+        var overlay = document.getElementById("areas-overlay");
+        var closeBtn = document.getElementById("areas-close");
+        if (!btn || !sheet || !overlay || !closeBtn) return;
+
+        var wideQuery = window.matchMedia("(min-width: 800px)");
+
+        function placeSheet() {
+          if (!wideQuery.matches) return;
+          var rect = btn.getBoundingClientRect();
+          document.documentElement.style.setProperty("--areas-top", Math.round(rect.bottom + 8) + "px");
+          document.documentElement.style.setProperty("--areas-right", Math.round(window.innerWidth - rect.right) + "px");
+        }
+
+        function openSheet() {
+          placeSheet();
+          document.body.classList.add("sheet-open");
+          btn.setAttribute("aria-expanded", "true");
+          sheet.setAttribute("aria-hidden", "false");
+          sheet.setAttribute("aria-modal", "true");
+          sheet.inert = false;
+          overlay.hidden = false;
+          closeBtn.focus();
+        }
+
+        function closeSheet() {
+          if (!document.body.classList.contains("sheet-open")) return;
+          document.body.classList.remove("sheet-open");
+          btn.setAttribute("aria-expanded", "false");
+          sheet.setAttribute("aria-hidden", "true");
+          sheet.removeAttribute("aria-modal");
+          sheet.inert = true;
+          overlay.hidden = true;
+          btn.focus();
+        }
+
+        btn.addEventListener("click", function (event) {
+          event.stopPropagation();
+          if (document.body.classList.contains("sheet-open")) closeSheet();
+          else openSheet();
+        });
+
+        closeBtn.addEventListener("click", function (event) {
+          event.stopPropagation();
+          closeSheet();
+        });
+
+        overlay.addEventListener("click", closeSheet);
+
+        document.addEventListener("click", function (event) {
+          if (!document.body.classList.contains("sheet-open")) return;
+          if (sheet.contains(event.target) || btn.contains(event.target)) return;
+          closeSheet();
+        });
+
+        document.addEventListener("keydown", function (event) {
+          if (!document.body.classList.contains("sheet-open")) return;
+          if (event.key === "Escape") {
+            event.preventDefault();
+            closeSheet();
+            return;
+          }
+          if (event.key !== "Tab") return;
+          var items = sheet.querySelectorAll("a[href], button:not([disabled])");
+          if (!items.length) return;
+          var first = items[0];
+          var last = items[items.length - 1];
+          if (event.shiftKey && document.activeElement === first) {
+            event.preventDefault();
+            last.focus();
+          } else if (!event.shiftKey && document.activeElement === last) {
+            event.preventDefault();
+            first.focus();
+          }
+        });
+
+        window.addEventListener("resize", function () {
+          if (document.body.classList.contains("sheet-open")) placeSheet();
+        });
+      })();
+    </script>
   </body>
 </html>

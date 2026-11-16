@@ -3,6 +3,7 @@ layout: area
 title: "Strip-adjacent pairing"
 description: "The closest CCB-licensed dispensaries and consumption lounges to the Las Vegas Strip, paired with official late-night food just off the casino corridor. Last verified 2026-11-12."
 nav_title: "The Strip"
+kicker: "Off the boulevard"
 ---
 
 # Strip-adjacent pairing

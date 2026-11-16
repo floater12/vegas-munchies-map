@@ -3,6 +3,7 @@ layout: area
 title: "Late-night munchie deals under $10"
 description: "Officially priced late-night plates under $10, including Coronado Cafe, Station Casinos and Wildfire Late Night Savings, and PUB 365. Last verified 2026-11-12."
 nav_title: "Under $10"
+header_role: topic
 ---
 
 # Late-night munchie deals under $10

@@ -3,6 +3,7 @@ layout: area
 title: "Henderson / Green Valley pairing"
 description: "CCB-licensed dispensaries in and around Henderson, paired with the two official 24-hour late-night cafes found in Henderson today: The Brass Fork at Sunset Station and Wild Grill Boulder at Wildfire Boulder. Last verified 2026-11-12."
 nav_title: "Henderson"
+kicker: "Henderson / Green Valley"
 ---
 
 # Henderson / Green Valley pairing

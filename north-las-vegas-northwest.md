@@ -3,6 +3,7 @@ layout: area
 title: "North Las Vegas / Northwest pairing"
 description: "CCB-licensed dispensaries in North Las Vegas and the northwest valley (Centennial Hills, Decatur, Craig Road, Centennial Parkway), paired with the three official 24-hour casino kitchens found up north today: The Brass Fork at Santa Fe Station, Victory's Cafe at Cannery, and Render Modern Kitchen at Aliante. Last verified 2026-11-12."
 nav_title: "North Las Vegas"
+kicker: "Northwest"
 ---
 
 # North Las Vegas / Northwest pairing
