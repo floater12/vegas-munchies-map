@@ -2,6 +2,7 @@ title: Vegas Munchies Map
 description: Licensed Las Vegas dispensaries paired with late-night eats, checked against official sources
 url: "https://floater12.github.io"
 baseurl: "/vegas-munchies-map"
+deal_tip_url: "https://github.com/floater12/vegas-munchies-map/issues/new?title=Deal%20tip%3A%20&labels=deal-tip&body=Place%20name%3A%0A%0AThe%20deal%3A%0A%0ADays%20%2F%20hours%3A%0A%0ALink%20or%20photo%20of%20where%20it%27s%20posted%3A%0A%0AWe%20only%20list%20deals%20we%20can%20verify%20on%20the%20place%27s%20own%20page%20or%20sign.%0A"
 theme: null
 
 # Header order. map.md is the Map button. Pages with header_role: topic

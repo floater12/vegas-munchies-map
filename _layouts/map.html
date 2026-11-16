@@ -14,10 +14,16 @@ layout: default
       <li><span class="swatch swatch-food"></span> Food</li>
     </ul>
   </div>
+  <div class="map-tabs" role="group" aria-label="Filter the map">
+    <button type="button" class="map-tab" data-filter="all" aria-pressed="true">All</button>
+    <button type="button" class="map-tab" data-filter="munchies" aria-pressed="false">Munchies</button>
+    <button type="button" class="map-tab" data-filter="weed" aria-pressed="false">Weed</button>
+  </div>
 </div>
 <div id="vegas-map" class="vegas-map" role="region" aria-label="Map of listed dispensaries, lounges, and late-night food"></div>
 <div class="wrap">
   <p class="near-status" id="near-status" role="status"></p>
+  <ul class="map-list" id="map-list" aria-label="Places on this map"></ul>
   <article class="prose">
     {{ content }}
   </article>
@@ -63,14 +69,86 @@ layout: default
   }
 
   var status = document.getElementById("near-status");
+  var list = document.getElementById("map-list");
   var here = null;
+  var markers = [];
+  var activeFilter = filterFromHash();
+
+  function filterFromHash() {
+    var hash = (location.hash || "").replace(/^#/, "").toLowerCase();
+    if (hash === "munchies" || hash === "weed") return hash;
+    return "all";
+  }
+
+  function pointMatches(point, filter) {
+    if (filter === "munchies") return point.type === "food";
+    if (filter === "weed") return point.type === "dispensary" || point.type === "lounge";
+    return true;
+  }
+
+  function paintTabs() {
+    var tabs = document.querySelectorAll(".map-tab");
+    for (var i = 0; i < tabs.length; i++) {
+      var on = tabs[i].getAttribute("data-filter") === activeFilter;
+      tabs[i].setAttribute("aria-pressed", on ? "true" : "false");
+    }
+  }
+
+  function writeHash() {
+    var path = location.pathname + location.search;
+    var next = activeFilter === "all" ? path : path + "#" + activeFilter;
+    if (location.pathname + location.search + location.hash !== next) {
+      history.replaceState(null, "", next);
+    }
+  }
+
+  function applyFilter() {
+    var bounds = [];
+    for (var i = 0; i < markers.length; i++) {
+      var entry = markers[i];
+      var show = pointMatches(entry.point, activeFilter);
+      if (entry.listItem) entry.listItem.hidden = !show;
+      if (show) {
+        if (!map.hasLayer(entry.marker)) entry.marker.addTo(map);
+        bounds.push([entry.point.lat, entry.point.lng]);
+      } else if (map.hasLayer(entry.marker)) {
+        if (entry.marker.isPopupOpen()) map.closePopup();
+        map.removeLayer(entry.marker);
+      }
+    }
+    if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
+  }
+
+  function selectFilter(next, syncHash) {
+    if (next !== "all" && next !== "munchies" && next !== "weed") next = "all";
+    var changed = next !== activeFilter;
+    activeFilter = next;
+    paintTabs();
+    if (changed) applyFilter();
+    if (syncHash) writeHash();
+  }
+
+  paintTabs();
+  writeHash();
+
+  document.querySelectorAll(".map-tab").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      selectFilter(btn.getAttribute("data-filter"), true);
+    });
+  });
+
+  window.addEventListener("hashchange", function () {
+    selectFilter(filterFromHash(), false);
+  });
 
   fetch(dataUrl).then(function (response) {
     if (!response.ok) throw new Error("map data");
     return response.json();
   }).then(function (points) {
-    var bounds = [];
+    var counts = { all: points.length, munchies: 0, weed: 0 };
     points.forEach(function (point) {
+      if (point.type === "food") counts.munchies += 1;
+      else if (point.type === "dispensary" || point.type === "lounge") counts.weed += 1;
       var color = colors[point.type] || "#f7f3ea";
       var marker = L.circleMarker([point.lat, point.lng], {
         radius: 8,
@@ -78,7 +156,11 @@ layout: default
         weight: 1,
         fillColor: color,
         fillOpacity: 0.95
-      }).addTo(map);
+      });
+      marker.on("add", function () {
+        var path = marker.getElement();
+        if (path) path.setAttribute("data-type", point.type);
+      });
       var pageName = pageNames[point.page] || point.page;
       var pageHref = base + "/" + point.page + ".html";
       marker.bindPopup(
@@ -89,10 +171,31 @@ layout: default
         "<p><a href=\"" + esc(point.source_url) + "\">Source</a></p>" +
         "<p>Checked on " + esc(point.last_checked) + "</p>"
       );
-      bounds.push([point.lat, point.lng]);
+      var listItem = null;
+      if (list) {
+        listItem = document.createElement("li");
+        listItem.setAttribute("data-type", point.type);
+        var kind = document.createElement("span");
+        kind.className = "map-list-type";
+        kind.textContent = typeLabels[point.type] || point.type;
+        var name = document.createElement("span");
+        name.textContent = point.name;
+        listItem.appendChild(kind);
+        listItem.appendChild(name);
+        list.appendChild(listItem);
+      }
+      markers.push({ point: point, marker: marker, listItem: listItem });
     });
-    if (bounds.length) map.fitBounds(bounds, { padding: [24, 24] });
-    setTimeout(function () { map.invalidateSize(); }, 0);
+    var labels = { all: "All", munchies: "Munchies", weed: "Weed" };
+    Object.keys(labels).forEach(function (key) {
+      var btn = document.querySelector('.map-tab[data-filter="' + key + '"]');
+      if (btn) btn.textContent = labels[key] + " (" + counts[key] + ")";
+    });
+    applyFilter();
+    setTimeout(function () {
+      map.invalidateSize();
+      applyFilter();
+    }, 0);
   }).catch(function () {
     status.textContent = "The map points did not load.";
   });
