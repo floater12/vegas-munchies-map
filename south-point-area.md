@@ -19,8 +19,8 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
 <article class="listing">
   <h3>Coronado Cafe at South Point</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
-  <p class="listing-hours">Daily, 24 hours</p>
-  <p class="listing-deal">"For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."</p>
+  <p class="listing-hours">Daily, 24 hours. Graveyard specials midnight to 6am</p>
+  <p class="listing-deal">Graveyard specials from $2.95 to $6.95, midnight to 6am, guests 21 and older</p>
   <p class="listing-where">9777 Las Vegas Blvd South, Las Vegas, NV 89183</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
@@ -28,16 +28,17 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   - **Address:** 9777 Las Vegas Blvd South, Las Vegas, NV 89183, as published on the cafe's official page
   - **Hours:** Daily, 24 hours, with holiday exceptions: Thanksgiving Nov 26, 11am–10pm; Christmas Dec 24 and 25, 11am–10pm
   - **Dress code:** Casual
-  - **Late-night deal, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
-  - **Also on that page, not treated as graveyard specials:** the Chinese kitchen is listed as 11am until midnight; house specials listed are Roast Prime Rib of Beef for $23.95 and a 16oz. Porterhouse Steak for $25.95
-  - **Phone published on the same page:** Hotel (702) 796-7111 (the page does not label a separate cafe-only number)
-  - **Checked on 2026-11-12**
+  - **Cafe page, as published:** "For late night dining there are six graveyard special entrees ranging from $2.95 to $6.95 served seven days a week."
+  - **Late Night Specials menu linked from that page:** "Served Midnight to 6am for Guests 21 and Older. No Substitutions." Option #1: shrimp cocktail $2.95 and biscuits and country gravy $4.45. Option #2, one item per guest: two eggs with bacon or sausage $4.95; pancake sandwich $4.95; ham steak and eggs $5.45; cheeseburger $5.45; steak and eggs $6.95
+  - **Also on the cafe page, not treated as graveyard specials:** the Chinese kitchen is listed as 11am until midnight; house specials listed are Roast Prime Rib of Beef for $23.95 and a 16oz. Porterhouse Steak for $25.95
+  - **Phone published on the cafe page:** Hotel (702) 796-7111 (the page does not label a separate cafe-only number)
+  - **Checked on 2026-11-19**
   
-  Line-item graveyard prices, a midnight–6am window, and a "21 and older" rule for the specials were not taken from this page and are not listed here. See "Dropped" below.
+  The full item list is on the [under-$10 deals page](late-night-deals-under-10.md). The cafe page says six entrees. The linked menu lists seven items, all inside the $2.95–$6.95 range.
   
-  **Source:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe), fetched 2026-11-11.
+  **Sources:** [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe) and [Late Night Specials menu](https://southpointcasino.com/menu/coronado-cafe-late-night), both fetched 2026-11-19.
   
-  No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances), but its late-night menu and hours were not confirmed from an official page successfully fetched today, so there is no Silverton food listing on this page.
+  No other late-night restaurant in this area is listed below. Silverton Casino Hotel is a short drive away (see distances). Its late-night menu was not confirmed on 2026-11-11 and was not re-checked on 2026-11-19, so there is no Silverton food listing on this page.
   
   </details>
 </article>
@@ -210,21 +211,21 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 
 ## Dropped (could not verify this day)
 
-- **Line-item Coronado graveyard prices, a midnight–6am serving window, and a "guests 21 and older" rule for those specials.** Search results surfaced South Point PDFs under a `/2015/01/` path with older line items (including steak and eggs at $4.95). Those figures conflict with the current official cafe page, which only publishes a $2.95–$6.95 range and does not state midnight–6am or a 21+ rule for the specials. The PDF line items were dropped.
-- **Social-media prices for South Point steak and eggs** (posts have said $6.95, $6.99, or $7.50). The official page does not publish a current line-item steak-and-eggs price, so those numbers are not used.
+- **Older South Point graveyard PDFs under a `/2015/01/` path.** The current Late Night Specials menu was used instead. Those older PDFs were not used.
+- **Social-media prices for South Point steak and eggs.** The Late Night Specials menu fetched 2026-11-19 lists steak and eggs at $6.95. Social posts were not used.
 - **Silverton late-night food prices and hours.** Silverton is 3.3 miles / about 6 minutes from South Point by the same Census + OSRM method (3333 Blue Diamond Rd, Las Vegas, NV 89139). A fetch of https://silvertoncasino.com/late-night-food-in-las-vegas/ failed with HTTP 504 on 2026-11-11, and no other official Silverton hours or late-night specials page was successfully confirmed today. No Silverton food listing.
 - **Station Casinos late-night specials** (Lucky Penny, Brass Fork, and the rest). Those official deals were confirmed on 2026-11-11, but the cafes are not in this South Point cluster, so they are held for the West Valley / Station Casinos page.
 - **Nevada Made Marijuana at 1675 E Cactus Ave** (CCB license 78183023264727429508). The store is on the CCB list, but the Census Geocoder would not match "1675 E Cactus Ave." Queries returned "1675 W CACTUS, LAS VEGAS, NV, 89123." Because East vs West could not be reconciled, the shop is not given a distance and is not in the table above.
 - **Hours for Nevada Made at 95 E Warm Springs Rd, GREEN. at 10420 S Eastern Ave, and The Dispensary at 8605 S Eastern Ave.** Official hours pages were not fetched today.
 - **Any CCB-licensed consumption lounge in this area.** None are on the list near this cluster.
 - **Tribal or unlicensed shops.** Not on the CCB list, so not listed.
-- **Kid-friendly / under-21 dining at Coronado Cafe.** The official cafe page fetched today does not say whether minors may be in the cafe during graveyard hours.
+- **Whether minors may sit in Coronado Cafe during other hours.** The Late Night Specials menu says the graveyard specials are for guests 21 and older. The cafe page does not say whether minors may be in the dining room outside that menu.
 - **Google Maps distances, traffic-adjusted times, and walking times.** Not used.
 
 ## Sources checked this day
 
 - [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) — fetched 2026-11-11; marked "Current as of 10/02/2026"; names, addresses, license numbers, adult-use status, delivery flags; confirmation that tribal establishments are omitted; lounge addresses used only to confirm none sit in this cluster
-- [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe) — address, 24-hour and holiday hours, dress code, graveyard special range $2.95–$6.95 seven days a week, Chinese-kitchen hours, listed house-special prices, hotel phone
+- [Coronado Cafe official page](https://southpointcasino.com/dining/coronado-cafe) and [Late Night Specials menu](https://southpointcasino.com/menu/coronado-cafe-late-night) — address, 24-hour and holiday hours, dress code, graveyard items and the midnight–6am / 21+ rule, Chinese-kitchen hours, house-special prices, hotel phone, fetched 2026-11-19
 - [Thrive Southern Highlands page](https://thrivenevada.com/southern-highlands-weed-dispensary-menu/) and [Thrive Get in Touch](https://thrivenevada.com/get-in-touch/) — 24/7 hours, address, phone (702) 330-0039
 - [The Source locations](https://www.thesourcenv.com/locations/) — Henderson–Eastern hours Mon–Sun 8AM–11PM, address, phone (702) 708-2222
 - [Deep Roots Harvest Blue Diamond](https://www.deeprootsharvest.com/locations/las-vegas-blue-diamond/) — store hours Mon–Sun 7AM–12AM; delivery and curbside hours Mon–Sun 8AM–10PM; address

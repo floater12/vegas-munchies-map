@@ -148,14 +148,16 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   <h3>Earl Grey Cafe at The Resort at Summerlin</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-hours">24 hours, 7 days a week</p>
+  <p class="listing-deal">$5.99 with a Rampart Rewards card, midnight–5 AM ($11.99 without)</p>
   <p class="listing-where">221 North Rampart Blvd</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Area:** Summerlin
   - **Hours, as published:** 24 hours, 7 days a week
-  - **Source:** [Earl Grey Cafe](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/)
-  - **Checked on 2026-11-12**
+  - **Late-night deal:** the Late Night Menu Specials card linked from the cafe page lists four plates at $5.99 with a Rampart Rewards card ($11.99 without), served nightly from midnight to 5 AM. Details are on the [under-$10 deals page](late-night-deals-under-10.md)
+  - **Source:** [Earl Grey Cafe](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/) and the [Late Night Menu Specials card](https://theresortatsummerlin.com/wp-content/uploads/2026/08/6443_Updated-Earl-Grey-Cafe-Late-NIght-Menu_8.5x11.pdf)
+  - **Checked on 2026-11-19**
   
   </details>
 </article>
@@ -502,7 +504,7 @@ Each row below carries the hours exactly as the business's own official page pub
 
 Do not consume cannabis at a restaurant, in a casino, in a hotel, in a parking lot, or in a car. A 24-hour drive-thru or curbside window is for buying, not for using.
 
-The four Station Casinos cafes (Palace Station, Red Rock, Durango, Boulder Station) and the two Henderson ones publish the Late Night Savings plates from $3.99 to $9.99; the terms (Boarding Pass, dine in only, not valid on holidays) are on the [under-$10 deals page](late-night-deals-under-10.md). Coronado's $2.95–$6.95 graveyard specials are there too.
+The four Station Casinos cafes (Palace Station, Red Rock, Durango, Boulder Station) and the two Henderson ones publish Late Night Savings plates. Game On, The George, and Wildfire Boulder list the 11 PM–6 AM items and do not list the $5.99 cheeseburger on their own pages. The program page still names them for the full list. Terms are on the [under-$10 deals page](late-night-deals-under-10.md). Coronado's graveyard menu, midnight to 6am, $2.95–$6.95, and Earl Grey Cafe's midnight–5 AM card specials are there too.
 
 Henderson: none of the Henderson stores with official hours posted close later than 1 AM (Wallflower Inspirada is the latest, 7:00 AM–1:00 AM). Wallflower's Blue Diamond store has a 24-hour drive-thru; see the next table.
 

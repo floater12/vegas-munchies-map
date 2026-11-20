@@ -185,9 +185,9 @@ A note on Wallflower delivery: Wallflower's own Henderson page says delivery run
   - **Hours, as published:** "24 Hours Limited Menu Served During Select Times"; the page also says "Join us 24 hours a day, 7 days a week!"
   - **Late-night deal:** Station Casinos' Late Night Savings, below
   - **Phone published on the same page:** 702-547-7802
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-19**
   
-  **Sources:** [The Brass Fork at Sunset Station](https://sunsetstation.com/eat-and-drink/the-brass-fork/) and the [Station Casinos property map](https://www.stationcasinos.com/property-map/), both fetched 2026-11-12.
+  **Sources:** [The Brass Fork at Sunset Station](https://sunsetstation.com/eat-and-drink/the-brass-fork/), fetched 2026-11-19, and the [Station Casinos property map](https://www.stationcasinos.com/property-map/), fetched 2026-11-12.
   
   </details>
 </article>
@@ -196,18 +196,18 @@ A note on Wallflower delivery: Wallflower's own Henderson page says delivery run
   <h3>Wild Grill Boulder at Wildfire Boulder</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-hours">the hours box lists Dining "Open 24/7," and the Wild Grill Boulder text says the location offers its menu "24 hours a day"</p>
-  <p class="listing-deal">the same Late Night Savings list, reprinted on that page</p>
+  <p class="listing-deal">Four Late Night Savings items, 11 PM–6 AM. The $5.99 cheeseburger is not on this page</p>
   <p class="listing-where">2000 S Boulder Hwy, Henderson, NV 89002</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Address:** 2000 S Boulder Hwy, Henderson, NV 89002, as published on Wildfire Boulder's official page
   - **Hours, as published:** the hours box lists Dining "Open 24/7," and the Wild Grill Boulder text says the location offers its menu "24 hours a day"
-  - **Late-night deal:** the same Late Night Savings list, reprinted on that page
+  - **Late-night deal, as published on this page:** pancakes $3.99, Deuces Wild $4.99, steak and eggs $9.99, and biscuits and gravy $4.99, each 11 PM–6 AM. The $5.99 cheeseburger is not on this page. The Wildfire program page still includes it for all Wild Grill locations
   - **Phone published on the same page:** (702) 558-6454
-  - **Checked on 2026-11-12**
+  - **Checked on 2026-11-19**
   
-  **Source:** [Wildfire Boulder](https://wildfiregaming.com/wildfires/wildfire-boulder/), fetched 2026-11-12.
+  **Sources:** [Wildfire Boulder](https://wildfiregaming.com/wildfires/wildfire-boulder/) and [Wildfire Late Night Savings](https://wildfiregaming.com/dining-promotions/late-night-savings/), both fetched 2026-11-19.
   
   </details>
 </article>
@@ -219,7 +219,7 @@ A note on Wallflower delivery: Wallflower's own Henderson page says delivery run
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
-  **Late Night Savings, as published on the Brass Fork at Sunset Station page fetched 2026-11-12:**
+  **Late Night Savings, as published on the Brass Fork at Sunset Station page fetched 2026-11-19:**
   
   - Cheeseburger Special $5.99, available 24/7
   - Pancakes $3.99, 11 PM–6 AM every day
@@ -227,7 +227,7 @@ A note on Wallflower delivery: Wallflower's own Henderson page says delivery run
   - Steak & Eggs $9.99, 11 PM–6 AM every day
   - Biscuits & Gravy $4.99, 11 PM–6 AM every day
   
-  Terms, as published: "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights." Wildfire Boulder's page lists the same items. See the [under-$10 deals page](late-night-deals-under-10.md) for the program-wide list.
+  Terms, as published: "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights." Wildfire Boulder's page lists the four 11 PM–6 AM items and does not list the cheeseburger. The program page still includes the cheeseburger for all Wild Grill locations. See the [under-$10 deals page](late-night-deals-under-10.md).
   
   </details>
 </article>

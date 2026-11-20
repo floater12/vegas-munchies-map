@@ -99,18 +99,21 @@ A note on Nevada Made delivery: Nevada Made's Charleston page says this store do
 <article class="listing">
   <h3>Earl Grey Cafe at The Resort at Summerlin</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
-  <p class="listing-hours">24 hours, 7 days a week; dine-in and take-out available</p>
+  <p class="listing-hours">24 hours, 7 days a week. Specials nightly, midnight–5 AM</p>
+  <p class="listing-deal">$5.99 with a Rampart Rewards card; $11.99 without. Midnight–5 AM</p>
   <p class="listing-where">221 North Rampart Blvd</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
   - **Address:** 221 North Rampart Blvd, as published on the resort's official page (the page does not print a city or ZIP; the Census Geocoder matched it as 221 N Rampart Blvd, Las Vegas, NV 89145)
-  - **Hours, as published:** 24 hours, 7 days a week; dine-in and take-out available
+  - **Hours, as published:** 24 hours, 7 days a week
   - **Phone published on the same page:** 1-702-507-5966
-  - **Prices:** none listed. The page links a "Late Night Menu" and "Late Night Menu Specials," but no prices were readable in the page text fetched today, so none are listed here
-  - **Checked on 2026-11-12**
+  - **Late-night deal, as published on the Late Night Menu Specials card linked from the cafe page:** served nightly from midnight to 5 AM. Two Egg Omlelet, Cheese Quesadilla, Two Eggs Any Style, or Cheeseburger. "$5.99 with Rampart Rewards card, $11.99 without. Must present Rampart Rewards card. One meal per guest. Dine-in only."
+  - **Checked on 2026-11-19**
+
+  The item list and terms are on the [under-$10 deals page](late-night-deals-under-10.md). The cafe page fetched today does not say "dine-in and take-out" as a general hours line. The specials card says the $5.99 offer is dine-in only.
   
-  **Source:** [Earl Grey Cafe official page](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/), fetched 2026-11-12.
+  **Sources:** [Earl Grey Cafe official page](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/) and the [Late Night Menu Specials card](https://theresortatsummerlin.com/wp-content/uploads/2026/08/6443_Updated-Earl-Grey-Cafe-Late-NIght-Menu_8.5x11.pdf), both fetched 2026-11-19.
   
   </details>
 </article>
@@ -165,7 +168,6 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Dropped (could not verify this day)
 
 - **Du-Par's at Suncoast Hotel & Casino (9090 Alta Dr).** The official Boyd Gaming page for Du-Par's returned no readable content today, and Boyd's reopening press release says only that it is "open daily" for breakfast, lunch, and dinner. No 24-hour claim could be confirmed, so it is not listed.
-- **Earl Grey Cafe late-night menu prices.** Linked on the official page, but not readable in the text fetched today.
 - **Distill menu prices.** Not fetched.
 - **Cultivate at 7105 N Durango Dr and Jade Cannabis at 6050 Sky Pointe.** On the CCB list and farther north; both are on the [North Las Vegas / Northwest page](north-las-vegas-northwest.md).
 - **NWC West at 9030 W Flamingo Rd.** On the CCB list; its official page returned no readable hours today.
@@ -180,7 +182,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 - [Nevada Made Marijuana Charleston](https://nevadamademarijuana.com/charleston/) — 24-hour hours, address, phone, Summerlin wording, no-delivery and cash-only notes
 - [Green Dispensary Rainbow](https://greennv.com/locations/rainbow), [Green Dispensary Hualapai](https://greennv.com/locations/hualapai), and [Green locations](https://greennv.com/locations) — hours, addresses, phone, service areas
 - [Beyond/Hello Sahara](https://beyond-hello.com/nevada-dispensaries/las-vegas-sahara/) — hours, address, phone, areas served
-- [Earl Grey Cafe](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/) — hours, address, phone
+- [Earl Grey Cafe](https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/) and the [Late Night Menu Specials card](https://theresortatsummerlin.com/wp-content/uploads/2026/08/6443_Updated-Earl-Grey-Cafe-Late-NIght-Menu_8.5x11.pdf) — hours, address, phone, midnight–5 AM specials, fetched 2026-11-19
 - [Distill locations](https://www.distillbar.com/locations) and [Distill home page](https://www.distillbar.com/) — 24/7 wording, address, phone
 - [Boyd Gaming Du-Par's release](https://media.boydgaming.com/11-10-25-DuparsOpening) — fetched; no 24-hour claim
 - [Station Casinos property map](https://www.stationcasinos.com/property-map/) — Red Rock address used for the one Red Rock distance

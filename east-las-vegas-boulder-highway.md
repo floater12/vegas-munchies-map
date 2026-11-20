@@ -20,24 +20,24 @@ Adults 21+. No smoking in public, casinos, or cars. Not legal advice.
   <h3>Game On at Boulder Station</h3>
   <p class="listing-type"><span class="badge badge-food">Food</span></p>
   <p class="listing-hours">"Open 24 Hours / 7 Days a Week"; the page also says "Game On is now open 24 hours serving all-American breakfast, lunch and dinner options."</p>
-  <p class="listing-deal">Late Night Savings $3.99–$9.99</p>
+  <p class="listing-deal">Late Night Savings. The Game On page lists four items, $3.99–$9.99, from 11 PM–6 AM</p>
   <p class="listing-where">4111 Boulder Highway, Las Vegas, NV 89121</p>
   <details class="sources" markdown="1">
   <summary>Details &amp; sources</summary>
   
-  - **Address:** 4111 Boulder Highway, Las Vegas, NV 89121, as published in the footer of Game On's official page
+  - **Address:** 4111 Boulder Highway, Las Vegas, NV 89121, from the Station Casinos property map fetched 2026-11-12. The Game On page fetched 2026-11-19 confirms the hours, phone, and the four late-night items below
   - **Hours, as published:** "Open 24 Hours / 7 Days a Week"; the page also says "Game On is now open 24 hours serving all-American breakfast, lunch and dinner options."
   - **Phone published on the same page:** 702.432.7777
-  - **Late-night deal (Late Night Savings, as published on the same page):**
-    - Cheeseburger Special $5.99, available 24/7
+  - **Late-night deal, as published on the Game On page fetched 2026-11-19:**
     - Pancakes $3.99, 11 PM – 6 AM every day
     - Deuces Wild $4.99, 11 PM – 6 AM every day
     - Steak & Eggs $9.99, 11 PM – 6 AM every day
     - Biscuits & Gravy $4.99, 11 PM – 6 AM every day
+  - The $5.99 cheeseburger is not on the Game On page. The [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/) page still names Game On for the full list, including that cheeseburger, available 24/7
   - **Terms, as published:** "Prices valid with Boarding Pass, dine in only. Tax and gratuity not included. Not valid on holidays or special events. Management reserves all rights."
-  - **Checked on 2026-11-13**
+  - **Checked on 2026-11-19**
   
-  **Source:** [Game On at Boulder Station](https://boulderstation.com/eat-and-drink/game-on/), fetched 2026-11-13.
+  **Sources:** [Game On at Boulder Station](https://boulderstation.com/eat-and-drink/game-on/) and [Station Late Night Savings](https://stationcasinos.com/sc-dining-promotions/late-night-savings/), both fetched 2026-11-19.
   
   </details>
 </article>
@@ -206,7 +206,7 @@ Full wording, with citations, is on the [hub page](index.md). The short version,
 ## Sources checked this day
 
 - [CCB List of Licensees](https://ccb.nv.gov/list-of-licensees/) — fetched 2026-11-13; marked "Current as of 10/02/2026"; names, addresses, license numbers, adult-use designation, delivery flags; confirmation that no lounge is on the east side
-- [Game On at Boulder Station](https://boulderstation.com/eat-and-drink/game-on/) — hours, address, phone, Late Night Savings list and terms
+- [Game On at Boulder Station](https://boulderstation.com/eat-and-drink/game-on/) — hours, phone, four 11 PM–6 AM Late Night Savings items and terms, fetched 2026-11-19. The $5.99 cheeseburger is on the program page, not on this restaurant page
 - [Arizona Charlie's Boulder restaurants](https://arizonacharliesboulder.com/restaurants) — Denny's, PT's Express, and Dunkin' hours; address
 - [Denny's Steak and Eggs offer, Arizona Charlie's Boulder](https://arizonacharliesboulder.com/special-offers/denny-s-steak-and-eggs) — $9.99 price
 - [Sam's Town dining](https://samstownlv.boydgaming.com/dine) and [Roberto's Taco Shop locations](https://robertostacoshop.com/locations/) — checked; not listed (see Dropped)

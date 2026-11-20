@@ -7,7 +7,7 @@
   "lng": -115.172477,
   "page": "south-point-area",
   "source_url": "https://southpointcasino.com/dining/coronado-cafe",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "late-night-deals-under-10",
    "open-at-2am"
@@ -257,7 +257,7 @@
   "lng": -115.161296,
   "page": "strip-adjacent",
   "source_url": "https://www.tuscanylv.com/restaurant/pub-365-craft-beers/",
-  "last_checked": "2026-11-14",
+  "last_checked": "2026-11-19",
   "also_on": [
    "downtown-fremont",
    "late-night-deals-under-10",
@@ -274,7 +274,7 @@
   "lng": -115.163612,
   "page": "strip-adjacent",
   "source_url": "https://www.peppermilllasvegas.com/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "downtown-fremont",
    "open-at-2am"
@@ -289,7 +289,7 @@
   "lng": -115.175567,
   "page": "strip-adjacent",
   "source_url": "https://palacestation.com/eat-and-drink/the-brass-fork/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "downtown-fremont",
    "late-night-deals-under-10",
@@ -427,7 +427,7 @@
   "lng": -115.333852,
   "page": "late-night-deals-under-10",
   "source_url": "https://redrockresort.com/eat-and-drink/lucky-penny/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "west-valley",
    "open-at-2am"
@@ -442,7 +442,7 @@
   "lng": -115.08535,
   "page": "late-night-deals-under-10",
   "source_url": "https://boulderstation.com/eat-and-drink/game-on/",
-  "last_checked": "2026-11-13",
+  "last_checked": "2026-11-19",
   "also_on": [
    "west-valley",
    "open-at-2am",
@@ -458,7 +458,7 @@
   "lng": -115.279406,
   "page": "late-night-deals-under-10",
   "source_url": "https://durangoresort.com/eat-and-drink/the-george/",
-  "last_checked": "2026-11-13",
+  "last_checked": "2026-11-19",
   "also_on": [
    "west-valley",
    "open-at-2am"
@@ -551,7 +551,7 @@
   "lng": -115.040339,
   "page": "henderson",
   "source_url": "https://sunsetstation.com/eat-and-drink/the-brass-fork/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "open-at-2am"
   ],
@@ -565,7 +565,7 @@
   "lng": -114.942416,
   "page": "henderson",
   "source_url": "https://wildfiregaming.com/wildfires/wildfire-boulder/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "open-at-2am"
   ],
@@ -633,9 +633,10 @@
   "lng": -115.287195,
   "page": "summerlin",
   "source_url": "https://theresortatsummerlin.com/las-vegas-restaurants/casual-dining/earl-grey-cafe/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
-   "open-at-2am"
+   "open-at-2am",
+   "late-night-deals-under-10"
   ],
   "geocoder": "census"
  },
@@ -647,7 +648,7 @@
   "lng": -115.331092,
   "page": "summerlin",
   "source_url": "https://www.distillbar.com/locations",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [
    "open-at-2am"
   ],
@@ -761,7 +762,7 @@
   "lng": -115.243278,
   "page": "north-las-vegas-northwest",
   "source_url": "https://santafestation.com/eat-and-drink/the-brass-fork/",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-19",
   "also_on": [],
   "geocoder": "census"
  },
@@ -958,7 +959,7 @@
   "geocoder": "census"
  },
  {
-  "name": "Jardín",
+  "name": "Jard\u00edn",
   "type": "dispensary",
   "address": "2900 E Desert Inn Rd, Las Vegas, NV 89121",
   "lat": 36.129836,
@@ -1017,19 +1018,19 @@
   "lng": -115.152349,
   "page": "near-unlv-maryland-parkway",
   "source_url": "https://virginhotelslv.com/dine-and-drink/pizza-forte/",
-  "last_checked": "2026-11-14",
+  "last_checked": "2026-11-19",
   "also_on": [],
   "geocoder": "census"
  },
  {
-  "name": "The Village Pub & Café at Ellis Island",
+  "name": "The Village Pub & Caf\u00e9 at Ellis Island",
   "type": "food",
   "address": "4178 Koval Lane, Las Vegas, NV 89109",
   "lat": 36.113276,
   "lng": -115.163916,
   "page": "near-unlv-maryland-parkway",
   "source_url": "https://www.ellisislandcasino.com/the-village-pub",
-  "last_checked": "2026-11-14",
+  "last_checked": "2026-11-19",
   "also_on": [],
   "geocoder": "census"
  },
